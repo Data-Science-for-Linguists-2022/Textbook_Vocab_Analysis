@@ -45,7 +45,7 @@
 большинство́ кого́ ? чего́ ? 10 – majority
 борода́ 2 – beard
 боро́ться impf. c кем? с чем? 16 – to fight
-боти́ нки 15 – boots
+боти́нки 15 – boots
 боя́ться impf. + inf. 14 – to be afraid
 брони́ровать/заброни́ровать что? 14 – to book, reserve
 бронхи́т 16 – bronchitis
@@ -55,7 +55,7 @@
 бу́лочка 5 – roll, bun
 буты́лка 6 – bottle
 бы́вший муж 4 – ex-husband
-бытова́ я те́хника 11 – appliances
+бытова́я те́хника 11 – appliances
 быть impf. в чём? 15 – to be wearing (literally: to be “in”) something
 Во́бщем 12 – in general
 в-тре́тьих 7, 12 – thirdly
@@ -73,24 +73,24 @@
 вести́ ~ води́ ть маши́ ну 12 – to drive a car
 весь (вся, всё, все) 1 – all, the whole
 ве́треный/ве́трено adj./adv. 15 – windy
-вечери́ нка 4 – party
+вечери́нка 4 – party
 ве́шать/пове́сить что? куда́? где? 11 – to hang, put (on a wall, ceiling)
 взро́слый, -ая, -ые n./adj. 4 – adult; grown-up
-ви́ды спо́ рта 10 – sports
+ви́ды спо́рта 10 – sports
 ви́за 14 – visa
 ви́лка 6, 11 – fork
-виногра́ д, sg. only 5 – grapes
+виногра́д, sg. only 5 – grapes
 висе́ть impf. где? 11 – to hang, be hanging
 включа́ть/включи́ть что? 9 – to turn on
 вку́сный, -ая, -ое, -ые 5, 6 – delicious
 вла́жный/вла́жно adj./adv. 15 – humid
-влюбля́ ться/влюби́ ться в кого́ ? 4 – to fall in love
+влюбля́ться/влюби́ться в кого́ ? 4 – to fall in love
 внима́ние 10 – attention
 внима́тельный, -ая, -ое, -ые 2 – attentive
 внук, pl. вну́ки 3 – grandson
 вну́чка 3 – granddaughter
 во вре́мя чего́ ? 14 – during, while
-во-вто́ рых 4, 7, 12 – secondly
+во-вто́рых 4, 7, 12 – secondly
 во-пе́рвых 4, 7, 12 – firstly
 води́тель 13 – driver
 води́тельские права́ 7 – driver’s license
@@ -106,28 +106,28 @@
 всё n. – everything/все 1 – everyone
 всё вре́мя 4 – all the time
 вспомина́ть/вспо́мнить кого́ ? что? 14 – to recall, recollect
-встава́ ть/встать 9 – to get up
+встава́ть/встать 9 – to get up
 встреча́ться impf. с кем? 4 – to date; meet
 встре́чная полоса́ 13 – opposite lane (of oncoming traffic)
-выбира́ть/вы́брать что? факульте́т, специа́льность 7 – to declare
-a major; 15 to choose
+выбира́ть/вы́брать что? факульте́т, специа́льность 7 – to declare a major; 15 to choose
 вы́глядеть impf. 2 – to look like; 15 to look, appear
 вы́звать pfv. кого́ ? что? 15 – to call, send for
-выздора́ вливать/вы́ здороветь 16 – to get better, to regain one’s health
+выздора́вливать/вы́здороветь 16 – to get better, to regain one’s health
 выи́грывать/вы́играть у кого́ ? что? 10 – to win
 выключа́ть/вы́ключить что? 7, 9 – to turn off; звук – to turn off the sound, to mute
 выноси́ть/вы́нести му́сор 11 – to take out the trash
-выпускни́ к 7 – alumnus; выпускни́ ца – alumna
+выпускни́к 7 – alumnus
+выпускни́ца – alumna
 вы́расти pfv. где? 1 – to grow up
 вы́ставка 10 – art exhibition
 выступа́ть/вы́ступить 8 – to perform
 высыпа́ться/вы́спаться 9 – to get enough sleep
-выходи́ ть/вы́ йти в эфи́ р 17 – to go on the air
+выходи́ть/вы́йти в эфи́ р 17 – to go on the air
 выходи́ть/вы́йти за́ муж за кого́ ? 4 – to get married (for a woman)
 Гардеро́бная 11 – wardrobe, closet
 гарни́р 5 – side dish
 гель для ду́ша 11 – shower gel
-геро́й/герои́ ня (фи́ льма, телепрогра́ммы) 17 – protagonist
+геро́й/герои́ня (фи́льма, телепрогра́ммы) 17 – protagonist
 гимна́стика 10 – gymnastics
 гита́ра 10 – guitar
 гла́вная у́лица 12 – main street
@@ -135,19 +135,19 @@ a major; 15 to choose
 гла́дить/погла́дить что? 11 – to iron
 глу́по 14 – stupid
 глу́пый, -ая, -ое, -ые 2 – stupid
-говя́ дина 5 – beef
+говя́дина 5 – beef
 го́лос 17 – voice
 голосово́й помо́щник 15 – voice assistant
 гольф 10 – golf
 горди́ться impf. кем? чем? 10 – to be proud
-горнолы́ жный куро́ рт 14 – ski resort
+горнолы́жный куро́рт 14 – ski resort
 горя́чее (на горя́чее) n. 6 – entrée, main course (as an entrée, main course)
-горя́ чий, -ая, -ее, -ие 6 – hot; горя́ чая/холо́дная вода́ 11 – hot/cold water
+горя́чий, -ая, -ее, -ие 6 – hot; горя́ чая/холо́дная вода́ 11 – hot/cold water
 гостеприи́мный, -ая, -ое, -ые 12 – hospitable
 гото́вить/пригото́вить пра́здничный стол (обед, ужин) 6 – to cook a holiday meal
 (literally: holiday table)
 гото́вить/пригото́вить что? из чего́ ? 5 – to cook
-гото́ виться/подгото́ виться к чему́ ? 7 – to prepare for, to study for (an exam)
+гото́виться/подгото́виться к чему́ ? 7 – to prepare for, to study for (an exam)
 грибы́ pl. 5 – mushrooms
 гриль 5 – grill
 грипп 16 – the flu
@@ -164,14 +164,16 @@ a major; 15 to choose
 двухме́стный но́мер 14 – double room
 (моя́) де́вушка 4 – girlfriend
 дегусти́ ровать impf. что? – to taste/дегуста́ ция 14 – tasting
-де́йствие (фи́ льма) 17 – the action (in a film)
+де́йствие (фи́льма) 17 – the action (in a film)
 дека́н 8 – dean
-декана́ т 7 – dean’s office
-де́лать/сде́лать заря́дку 9 – to exercise; поку́пки 12 – to shop, make purchases;
-уко́л 16 – to give a shot; опера́цию 16 – to have surgery
+декана́т 7 – dean’s office
+де́лать/сде́лать заря́дку 9 – to exercise
+де́лать/сде́лать поку́пки 12 – to shop, make purchases
+де́лать/сде́лать уко́л 16 – to give a shot 
+де́лать/сде́лать опера́цию 16 – to have surgery
 дели́ться/подели́ться чем? с кем? 12 – to share
-держа́ ть impf. кого́ ? что? – to hold, keep; here: to have
-детекти́ в 17 – mystery, detective show
+держа́ть impf. кого́ ? что? – to hold, keep; here: to have
+детекти́в 17 – mystery, detective show
 де́тский сад 12 – preschool, kindergarten
 джи́нсы pl. only, gen.: джинс 15 – jeans
 дива́н 11 – couch
@@ -179,22 +181,22 @@ a major; 15 to choose
 для + gen. 2 – for, for the purpose of
 до того́ как conj. 8, 9 – before
 добавля́ть/доба́вить что? куда́? 1, 5 – to add
-до́ брый, -ая, -ое, -ые 2 – kind
-дово́ лен, дово́ льна, дово́ льны кем? чем? 10 – satisfied
-доезжа́ ть/дое́хать до чего́ ? – to get to, arrive at
-документа́ льное кино́ , документа́ льный фильм 7, 17 – documentary
+до́брый, -ая, -ое, -ые 2 – kind
+дово́лен, дово́льна, дово́льны кем? чем? 10 – satisfied
+доезжа́ть/дое́хать до чего́ ? – to get to, arrive at
+документа́льное кино́ , документа́льный фильм 7, 17 – documentary
 дома́шний, -яя, -ее, -ие 6 – homemade; дома́шнее живо́тное 11 – pet
 доро́га 12 – road
 достопримеча́тельность 12 – tourist attraction, place of interest
 дочь gen.: до́ чери/до́ чка 3 – daughter
 дру́жба 2 – friendship
-дружелю́ бный, -ая, -ое, -ые 11 – friendly
+дружелю́бный, -ая, -ое, -ые 11 – friendly
 дружи́ть impf. с кем? 2 – to be friends
 дру́жная семья́ 3 – happy family
 духо́вка 5 – oven
 ды́ня 5 – melon
 дыша́ть impf. 16 – to breathe
-дя́ дя 3 – uncle
+дя́дя 3 – uncle
 Европе́йский, -ая, -ое, -ие 6 – European
 ежедне́вно 15 – daily
 е́хать ~ е́здить 12 – to go, come (not by foot)
@@ -212,12 +214,11 @@ a major; 15 to choose
 жиры́ 5 – fats
 жи́тель/-ница 12 – resident
 За + inst. кем? чем? 11 – behind
-зарубежо́ м 8 – abroad
+зарубежо́м 8 – abroad
 забо́титься/позабо́титься о ком? о чём? 4 – to take care of
 забыва́ть/забы́ть кого́ ? что? + inf. 15 – to forget
 заве́дующий/-ая ка́ федрой 8 – department chair
-зави́ сеть impf. от кого́ ? чего́ ? (Всё/Это зави́ сит . . .) 16 – to depend on (Everything/It
-depends on . . .)
+зави́сеть impf. от кого́? чего́? (Всё/Это зави́сит . . .) 16 – to depend on (Everything/It depends on . . .)
 задава́ть/зада́ть вопро́ с кому́ ? о ком? о чём? 7, 15 – to ask a question
 зака́зывать/заказа́ть что? 6 – to order; гости́ ницу, биле́ты, экску́рсию 14 – to
 book a hotel, tickets, a tour
@@ -227,8 +228,8 @@ book a hotel, tickets, a tour
 pursue science (this includes conductinɡ research, publishinɡ scholarly articles,
 attendinɡ conferences, etc.);
 чем? бе́гом, те́ннисом 10 – to practice, to engage in, to play
-заня́ тие 7 – class
-запека́ ть/запе́чь в духо́ вке (что? мя́ со, о́ вощи) 5 – to roast in an oven
+заня́тие 7 – class
+запека́ть/запе́чь в духо́вке (что? мя́со, о́вощи) 5 – to roast in an oven
 запи́сывать/записа́ть кого́ ? куда́? 10 – to register someone, sign someone up for
 something
 запи́сываться/записа́ться на курс по чему́ ? 7 – to register for, sign up for
@@ -243,14 +244,14 @@ something
 зе́лень f. 14 – here: vegetation, plants
 зе́ркало 11 – mirror
 злой, -ая, -ое, -ые 12 – angry, mean
-знако́ мить/познако́ мить кого́ ? с кем? 4 – to introduce somebody to someone
-знамени́ т, знамени́ та, знамени́ ты кем? чем? 10 – renowned for
-знамени́ тость f. 2 – celebrity
-знамени́ тый, -ая, -ое, -ые 14 – renowned
+знако́мить/познако́мить кого́ ? с кем? 4 – to introduce somebody to someone
+знамени́т, знамени́та, знамени́ты кем? чем? 10 – renowned for
+знамени́тость f. 2 – celebrity
+знамени́тый, -ая, -ое, -ые 14 – renowned
 зна́ние 7 – knowledge
 знато́к 17 – connoisseur, expert
 зна́чить impf. (Это зна́чит, что . . .) 16 – to mean (This means . . .)
-золото́ й, -ая, -ое, -ые 15 – gold
+золото́й, -ая, -ое, -ые 15 – gold
 зо́нтик 15 – umbrella
 Игра́ть impf. в(о) что? (футбо́ л, те́ннис) 10 – to play (soccer, tennis); на чём?
 (скри́ пке, гита́ре) 10 – to play (violin, guitar); игра́ ть/сыгра́ ть (гла́вную) роль
@@ -269,7 +270,7 @@ something
 иммуните́т 16 – immune system
 инде́йка 5, 6 – turkey
 иска́ть impf. кого́? что? 2 – to look for, search
-истори́ ческий фильм 17 – historical film
+истори́ческий фильм 17 – historical film
 Каза́ться/показа́ться кому́ ? (Мне ка́жется, что . . .) 16 – to seem (It seems to me . . .)
 как 3 – like, as
 капу́ста, sg. only 5 – cabbage
@@ -308,7 +309,7 @@ something
 контро́льная рабо́та 7 – test
 конфе́та 6 – candy
 корми́ть/накорми́ть кого́ ? чем? 6 – to serve food (literally: to feed)
-коро́ бка 6 – box
+коро́бка 6 – box
 коро́ткий, -ая, -ое, -ие 15 – short; коро́ ткие во́ лосы pl. 2 – short hair
 коро́че 11 – in short (used in informal conversation)
 косме́тика 13 – cosmetics
@@ -325,14 +326,14 @@ something
 кро́ме того́ 2, 4, 7, 12 – besides, furthermore
 кроссо́вки pl. 14, 15 – sneakers
 кру́жка 11 – mug
-круи́ зный ла́ йнер 14 – a cruise ship
+круи́зный ла́йнер 14 – a cruise ship
 крупне́йший, -ая, -ее, -ие 8 – largest, biggest
-кулина́ рное шо́у 17 – cooking show
-купа́ льник 15 – swimsuit
+кулина́рное шо́у 17 – cooking show
+купа́льник 15 – swimsuit
 курс 7 – course
 ку́ртка 15 – sport jacket
 ку́хня 5, 6 – cuisine; kitchen
-кухо́ нные шка́ фчики 11 – kitchen cabinets
+кухо́нные шка́фчики 11 – kitchen cabinets
 Лёд 10 – ice n.
 лежа́ть impf. 6, 9, 11 – to lie/be lying
 ле́кция 7 – lecture
@@ -364,15 +365,16 @@ something
 медици́ нская страхо́ вка 7 – medical insurance
 ме́жду + inst. кем? чем? 11 – between
 мелодра́ма 17 – melodrama
-ме́сто pl. места́ 12 – place; ме́сто в общежи́ тии 11 – here: place in a dorm, vacancy
+ме́сто pl. места́ 12 – place
+ме́сто в общежи́тии 11 – here: place in a dorm, vacancy
 метро́ 12 – metro, subway
 мече́ть f. 14 – mosque
 мечта́ – dream
 мечта́ть impf. о ком? о чём? 1 – to dream
 меша́ть/помеша́ть ко́ му? чему́ ? 4 – to disturb, bother
-микроволно́ вка 11 – microwave
+микроволно́вка 11 – microwave
 мири́ться/помири́ться с кем? 3 – to make up
-мла́дше/ста́ рше кого́ ? 4 – younger/older
+мла́дше/ста́рше кого́ ? 4 – younger/older
 мно́гие pl. 16 – many (but not all)
 мо́дный, -ая, -ое, -ые 15 – fashionable
 морко́вка, gen. pl. морко́вок 5 – carrot
@@ -392,7 +394,7 @@ show
 надева́ ть/наде́ть что? 15 – to put on (yourself), wear
 наде́яться impf. на то, что 14 – to hope for; на кого́? на что? (на по́мощь) – rely on, to
 count on
-называ́ ться impf. 1 – to be named, called
+называ́ться impf. 1 – to be named, called
 найти́ pfv. кого́? что? 2 – to find
 наконе́ц 5 – finally
 накрыва́ть/накры́ть на стол 6 – to set the table
@@ -401,9 +403,9 @@ count on
 направле́ние к врачу́ 16 – referral
 населе́ние 12 – population
 на́сморк 16 – runny nose, common cold
-насто́ льные и́ гры 10 – board games
+насто́льные и́гры 10 – board games
 настоя́щий, -ая, -ее, -ие 2 – genuine, here: true
-нау́чно-популя́ рный фильм 17 – educational film
+нау́чно-популя́рный фильм 17 – educational film
 находи́ться impf. где? 1 – to be located
 нача́ло чего́ ? – beginning/оконча́ние чего́ ? 9 – ending
 не́бо 15 – sky
@@ -509,46 +511,46 @@ celebrate
 плита́ 11 – stove
 пло́щадь го́рода 12 – city’s land area
 плыть ~ пла́вать 12 – to swim, sail, float
-по твоему́/ва́ шему мне́нию 15 – in your opinion
+по твоему́/ва́шему мне́нию 15 – in your opinion
 по-мо́ ему (по-тво́ ему) 12 – in my (your) opinion
 побежда́ ть/победи́ ть кого́ ? что? 10 – to win
 по́вар 5 – cook, chef
 повора́чивать/поверну́ть нале́во/напра́ во 13 – to turn left/right
 пого́да 15 – weather
 под + inst. кем? чем? 11 – under
-подава́ ть/пода́ ть что? кому́ ? 5 – to serve; докуме́нты куда́? 7 – to submit
+подава́ть/пода́ть что? кому́ ? 5 – to serve; докуме́нты куда́? 7 – to submit
 documents, apply
 подзе́мная парко́вка 13 – underground parking
-подписа́ ться pfv. на кого́ ? на что? 1 – to subscribe; follow
+подписа́ться pfv. на кого́ ? на что? 1 – to subscribe; follow
 подпи́счик 1 – follower, subscriber
 поду́мать pfv. о ком? о чём? 16 – to think about for a little while
 поду́шка 11 – pillow
 пожа́ р 15 – wildfire
-поздравля́ ть/поздра́ вить кого́ ? с чем? 6 – to congratulate
+поздравля́ть/поздра́вить кого́ ? с чем? 6 – to congratulate
 позити́вный, -ая, -ое, -ые 2 – positive
 пока́ 14 – so far
-пока́ зывать/показа́ ть кому́ ? что? 17 – to show, screen
+пока́зывать/показа́ть кому́ ? что? 17 – to show, screen
 поку́пка 15 – purchase
-пол (мужско́ й, же́нский) 9 – gender (male, female)
+пол (мужско́й, же́нский) 9 – gender (male, female)
 полго́да 12 – half a year
 поле́зная информа́ция 13 – useful information
 поле́зный, -ая, -ое, -ые/поле́зно 5 – healthy adj./adv.
-по́ лный, -ая, -ое, -ые (по́ лненький, -ая, -ое, -ие; полнова́тый, -ая, -ое, -ые) 2 – fullfigured
+по́лный, -ая, -ое, -ые (по́лненький, -ая, -ое, -ие; полнова́тый, -ая, -ое, -ые) 2 – fullfigured
 полови́на 19, 2 – half
 положи́ть pfv. что? 6, 11 – to put (horizontally)
 полоте́нце 11 – towel
 получа́ть/получи́ть что? 1, 7, 8 – to receive
-оце́нку по чему́ ? 7 – to get a grade
-вы́сшее образова́ние 8 – to receive higher education
-дипло́м 8 – to receive a diploma
-сте́пень бакала́вра, маги́стра 1, 8 – to receive a bachelor’s degree, a master’s
+получа́ть/получи́ть оце́нку по чему́ ? 7 – to get a grade
+получа́ть/получи́ть вы́сшее образова́ние 8 – to receive higher education
+получа́ть/получи́ть дипло́м 8 – to receive a diploma
+получа́ть/получи́ть сте́пень бакала́вра, маги́стра 1, 8 – to receive a bachelor’s degree, a master’s
 degree
-до́кторскую сте́пень 8 – to receive a Ph.D.
+получа́ть/получи́ть до́кторскую сте́пень 8 – to receive a Ph.D.
 о́пыт рабо́ты 8 – (to gain) work experience
 стипе́ндию, нау́чный грант 8 – to receive a scholarship, grant
 помидо́ р 5 – tomato
 понима́ть/поня́ть кого́ ? что? 4 – to understand
-пора́кому́ ? + inf. 9 – it’s time to
+пора́ кому́ ? + inf. 9 – it’s time to
 поря́док и чистота́ 11 – tidiness and cleanliness
 посеща́ть/посети́ть кого́ ? что? 10 – to attend, visit
 по́сле + gen. 4 – after
@@ -574,7 +576,7 @@ observe
 преподава́ть impf. что? кому́ ? 7 – to teach (to give lessons, to instruct, lecture; to be a
 teacher)
 привыка́ть/привы́кнуть к кому́ ? к чему́ ? 16 – to get used to something, to adjust
-приглаша́ ть/пригласи́ ть кого́ ? (госте́й) 6 – to invite
+приглаша́ть/пригласи́ть кого́ ? (госте́й) 6 – to invite
 приду́мывать/приду́мать что? 8, 17 – come up with, invent
 приезжа́ть/прие́хать куда́? отку́да? 9 – to come to/from
 приём у врача́ 16 – doctor’s appointment
@@ -583,10 +585,13 @@ teacher)
 приме́рочная 15 – fitting room
 примеря́ть/приме́рить что? 15 – to try on
 принима́ть/приня́ть душ 9 – to take a shower
-принима́ть/приня́ть 4, 6, 13, 16 – to accept; креди́тные ка́рты – to accept credit
-cards; лека́ рство – to take medicine; уча́ стие в чём? – to participate
+принима́ть/приня́ть 4, 6, 13, 16 – to accept
+принима́ть/приня́ть креди́тные ка́рты – to accept credit
+cards
+принима́ть/приня́ть лека́рство – to take medicine
+принима́ть/приня́ть уча́стие в чём? – to participate
 приноси́ть/принести́ что? c собо́ й 6 – to bring
-припра́ вы 5 – seasonings
+припра́вы 5 – seasonings
 приро́да (на приро́де) 6 – nature (outdoors)
 присыла́ ть/присла́ ть кому́ ? что? 6 – to send
 прихо́жая 11 – entrance hall
@@ -614,8 +619,8 @@ spend time
 просто́й, -ая, -ое, -ые 5 – simple
 просту́да 16 – cold
 простужа́ ться/простуди́ ться 16 – to get а cold
-просыпа́ ться/просну́ться 9 – to wake up
-прохла́ дный/прохла́ дно 15 – cool adj./adv.
+просыпа́ться/просну́ться 9 – to wake up
+прохла́дный/прохла́дно 15 – cool adj./adv.
 проходи́ть/пройти́ что? курс, пра́ктику, стажиро́ вку 8 – to take a course; to take a
 practical course, practicum; to get an internship; 10 to take place
 путеше́ствие 10 – travel, journey (usually long)
@@ -624,8 +629,8 @@ practical course, practicum; to get an internship; 10 to take place
 пылесо́сить/пропылесо́сить что? 11 – to vacuum
 Ра́довать impf. кого́ ? 10 – to make someone happy
 ра́доваться impf. кому́ ? чему́ ? 10 – to be happy, celebrate
-развива́ ться impf. 8 – to develop, progress
-разводи́ ться/развести́ сь с кем? 4 – to get divorced
+развива́ться impf. 8 – to develop, progress
+разводи́ться/развести́сь с кем? 4 – to get divorced
 разме́р 15 – size
 ра́зный, -ая, -ое, -ые 6 – different; various
 рак 16 – cancer
@@ -638,7 +643,7 @@ practical course, practicum; to get an internship; 10 to take place
 реализова́ ть impf./pfv. что? (прое́кт, иде́ю) 8 – to implement (a project, an idea)
 реа́лити-шо́у 17 – reality show
 ребёнок pl.: де́ти 3 – baby, child
-ревнова́ ть impf. кого́ ? к кому́ ? 4 – to be jealous
+ревнова́ть impf. кого́ ? к кому́ ? 4 – to be jealous
 режиссёр 17 – director
 ре́зать/наре́зать что? 5 – to slice, cut, chop
 ра́зный, -ая, -ое, -ые 6 – different; various
@@ -649,7 +654,7 @@ practical course, practicum; to get an internship; 10 to take place
 ремонти́ровать/отремонти́ ровать что? 12 – to remodel, fix
 рентге́н 16 – x-ray
 реце́пт 5 – recipe
-речно́ й порт 13 – river port
+речно́й порт 13 – river port
 реша́ть/реши́ть пробле́му 16 – to solve a problem
 реша́ть/реши́ть что? 4, 16 – to decide; пробле́му – to solve a problem
 рисова́ние 10 – painting, drawing n.
@@ -692,7 +697,7 @@ practical course, practicum; to get an internship; 10 to take place
 сиде́ть impf. где? 9 – to sit, be sitting
 си́ла – strength, energy
 си́льный, -ая, -ое, -ые 2 – strong
-симпати́ чный, -ая, -ые 2 – good-looking, handsome/pretty
+симпати́чный, -ая, -ые 2 – good-looking, handsome/pretty
 систе́ма ски́док для клие́нтов 13 – customer discount system
 скача́ть pfv. что? отку́да? 15 – to download
 ски́дка до 13 – discount up to
@@ -709,7 +714,7 @@ practical course, practicum; to get an internship; 10 to take place
 сла́дкий, -ая, -ое, -ие (на сла́дкое) 5, 6 – sweet (for dessert)
 сле́ва 13 – on the left
 сло́жно 8 – complicated
-случа́ ться/случи́ ться с кем? с чем? (Что случи́ лось?) 16 – to happen
+случа́ться/случи́ться с кем? с чем? (Что случи́ лось?) 16 – to happen
 сме́лый, -ая, -ое, -ые 2 – bold, daring
 смея́ться/посмея́ ться 4 – to laugh
 снача́ ла 9 – at first
@@ -724,7 +729,7 @@ practical course, practicum; to get an internship; 10 to take place
 сове́товать/посове́товать кому́ ? + inf. – to advise
 совме́стный, -ая, -ое, -ые 11 – joint adj., shared
 совреме́нный, -ая, -ое, -ые 13 – contemporary, modern
-создава́ ть/созда́ ть что? 10 – to create
+создава́ть/созда́ть что? 10 – to create
 солёный, -ая, -ое, -ые 5 – salty
 со́лнечный/со́лнечно 15 – sunny adj./adv.
 соло́менная су́мка 15 – straw bag
@@ -752,13 +757,13 @@ post (on social media)
 стара́ться/постара́ться + inf. 9 – to try, to make an effort
 старе́йший, -ая, -ее, -ие 8 – oldest
 стартова́ ть impf. & pfv. 13 – to start (a race or sporting event)
-ста́ рше/мла́ дше кого́ ? 4 – older/younger
+ста́рше/мла́дше кого́ ? 4 – older/younger
 старшеку́рсник 7 – senior
 стать pfv. кем? 1 – to become
 стиль чего́ ? 13 – style
 стира́льная маши́ на 11 – washing machine
 стира́ть/постира́ть что? 11 – to do laundry
-сто́ имость f. 10 – cost
+сто́имость f. 10 – cost
 столкну́ться pfv. с чем? 13 – to collide
 стоя́нка, парко́ вка 12 – parking, parking lot
 стоя́ть impf. 6, 9, 11 – to stand, be standing
@@ -767,7 +772,7 @@ post (on social media)
 стри́чься/постри́чься 9 – to get a haircut
 строи́ тельство 13 – construction
 стро́ить/постро́ить что? 11 – to build
-стро́ йный, -ая, -ое, -ые 2 – slim, slender
+стро́йный, -ая, -ое, -ые 2 – slim, slender
 студе́нческий биле́т 7 – student ID card
 суеве́рие 4 – superstition
 сча́стлив, сча́стлива, сча́стливы 4 – happy
@@ -776,7 +781,7 @@ post (on social media)
 сце́на 10 – stage
 счёт 6 – bill
 счита́ть impf. кого́ ? что? кем? чем? 10, 12 – to consider; что? – to count
-сыро́ й/сы́ ро 15 – damp adj./adv.
+сыро́й/сы́ро 15 – damp adj./adv.
 сюже́т 17 – plot
 сюсю́ кающий язы́ к 4 – baby talk
 Так во́т 8 – and so and so, (a conjunction used to sum up information or express a logical
