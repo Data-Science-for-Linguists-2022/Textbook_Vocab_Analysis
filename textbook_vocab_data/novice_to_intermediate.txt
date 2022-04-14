@@ -19,7 +19,6 @@
 баскетбол 10 – basketball
 бег 10 – running
 бежать ~ бегать 12 – to run
-Imperative: (Не) Беги/те! (Не) бегай/те!
 без + gen. 3 – without
 безветренный 15 – windless, calm
 белок, pl. белки 5 – protein
@@ -65,14 +64,12 @@ Imperative: (Не) Беги/те! (Не) бегай/те!
 вдвоём 11 – together (only two people)
 веду́щий, -ая, -ие 17 – TV host
 везти́ ~ вози́ ть кого́ ? что? куда́? 12 – to take/transport (not by foot)
-Imperative: (Не) Вези́ /те! (Не) вози́ /те!
 век 12 – century
 вели́к, велика́ , велико́ , велики́ 15 – (too) big
 ве́рить/пове́рить кому́ ? чему́ ? 14 – to believe in, trust
 ве́рный, -ая, -ые 2 – true, faithful
 весёлый, -ая, -ое, -ые 2 – cheerful, fun-loving
 вести́ ~ води́ ть кого́ ? куда́? 12 – to take, lead (by foot)
-Imperative: (Не) Веди́ /те! (Не) води́ /те!
 вести́ ~ води́ ть маши́ ну 12 – to drive a car
 весь (вся, всё, все) 1 – all, the whole
 ве́треный/ве́трено adj./adv. 15 – windy
@@ -117,7 +114,6 @@ a major; 15 to choose
 вы́глядеть impf. 2 – to look like; 15 to look, appear
 вы́звать pfv. кого́ ? что? 15 – to call, send for
 выздора́ вливать/вы́ здороветь 16 – to get better, to regain one’s health
-Imperative: Выздора́вливай/те!
 выи́грывать/вы́играть у кого́ ? что? 10 – to win
 выключа́ть/вы́ключить что? 7, 9 – to turn off; звук – to turn off the sound, to mute
 выноси́ть/вы́нести му́сор 11 – to take out the trash
@@ -202,7 +198,6 @@ Imperative: Выздора́вливай/те!
 Европе́йский, -ая, -ое, -ие 6 – European
 ежедне́вно 15 – daily
 е́хать ~ е́здить 12 – to go, come (not by foot)
-Imperative: (Не) е́зди/те! Поезжа́й/те!
 ещё 2, 4, 7, 12 – in addition, also
 Жа́дный, -ая, -ое, -ые 4 – greedy
 жара́ 15 – heat
@@ -260,7 +255,6 @@ something
 Игра́ть impf. в(о) что? (футбо́ л, те́ннис) 10 – to play (soccer, tennis); на чём?
 (скри́ пке, гита́ре) 10 – to play (violin, guitar); игра́ ть/сыгра́ ть (гла́вную) роль
 идти́ ~ ходи́ть 12 – to go, come (by foot)
-Imperative: (Не) Иди́ /те! Не ходи́ /те!
 идти́ impf. что? кому́ ? 15 – to look nice on someone, to suit someone
 идти́/ходи́ть в го́сти 6 – to visit
 и́з-за + gen. кого́ ? чего́ ? 11 – because of, due to (usually has a negative connotation)
@@ -345,7 +339,6 @@ Imperative: (Не) Иди́ /те! Не ходи́ /те!
 лени́вый, -ая, -ое, -ые 14 – lazy
 лес 16 – forest
 лете́ть ~ лета́ть 12 – to fly
-Imperative: (Не) Лети́ /те!/(Не) лета́й/те!
 лечи́ть/вы́лечить кого́ ? что? (анги́ ну) 16 – to treat, to cure (strep throat)
 лечи́ться/вы́лечиться от чего́ ? 16 – to be treated/cured
 лимо́н 5 – lemon
@@ -419,7 +412,6 @@ count on
 необходи́мый, -ая, -ое, -ые 11 – necessary
 не́рвничать impf. 16 – to be nervous
 нести́ ~ носи́ть кого́ ? что? 12 – to take, carry (by foot)
-Imperative: (Не) Неси́ /те! (Не) носи́ /те!
 нож 6, 11 – knife
 носи́ть impf. что? 15 – to wear
 Обеща́ть/пообеща́ть кому́ ? что? 14 – to promise
@@ -517,7 +509,6 @@ celebrate
 плита́ 11 – stove
 пло́щадь го́рода 12 – city’s land area
 плыть ~ пла́вать 12 – to swim, sail, float
-Imperative: (Не) Плыви́ /те! (Не) пла́вай/те!
 по твоему́/ва́ шему мне́нию 15 – in your opinion
 по-мо́ ему (по-тво́ ему) 12 – in my (your) opinion
 побежда́ ть/победи́ ть кого́ ? что? 10 – to win
