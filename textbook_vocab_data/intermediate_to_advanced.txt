@@ -1,4 +1,4 @@
-АбсолЮтно З - absolutely 
+АбсолЮтно 3 - absolutely 
 аварИйное состоЯние 5 - unsafe condition 
 акварель f 3 - watercolor 
 аккуратный 2 - neat, tidy, well organized; orderly 
@@ -16,7 +16,7 @@
 бездельничать 2 - to loaf, not do anything 
 бездомный 5 - homeless 
 безопасность 4 - security 
-безработица 2 - unemployment, joЫessness 
+безработица 2 - unemployment, joblessness 
 безработный (п.) 2 - unemployed (person) 
 безразлИчный 6 - indifferent 
 безусловно 1 - unconditionally; for sure 
@@ -34,9 +34,9 @@
 благополучие (финансовое) 9 -financial stabllity 
 благополучный 4 - happy, successful 
 благосостоЯние 10 - prosperity 
-благотворИтельный 6 - charitaЫe 
+благотворИтельный 6 - charitable 
 блестящий 4 - brilliant 
-близнецьi 4 - twins 
+близнецы 4 - twins 
 богатеть/разбогатеть 9 - to Ьесоте rich 
 богач 9 - wealthy person 
 богослужение 8 - religious service 
@@ -58,7 +58,7 @@
 венчаться/повенчаться 8 - to get married in а religious ceremony 
 верный (друг) 5 - faithful, real (friend) 
 веровать impf в(о) (кого? что?) 10 - to believe (in God) 
-вероЯтно 2 - рrоЬаЫу 
+вероЯтно 2 - рrоЬаblу 
 версия (следствия) 6 - (investigative) version 
 верующий 8 - believer 
 Верховный суд 8 - Supreme Court 
@@ -103,7 +103,7 @@
 воздушный транспорт 7 - aviatioп 
 возможность f 2 - possibllity; opportuпity 
 возникать/вознИкнуть (что?) у (кого?) 2 - to origiпate 
-возобновлЯемый 10 - rепеwаЫе 
+возобновлЯемый 10 - rепеwаblе 
 волна 10 - wave 
 воля 7 - willpower 
 вообще 1 - iп geпeral 
@@ -127,31 +127,31 @@
 всё равно 1 - all the same 
 всенародный 1- пatioпal 
 вуз 1 - ап iпstitutioп of higher learniпg 
-вьiбор sg. оп/у 1 - choice 
-вьiборы pl. оп/у 8 - electioп, electioпs 
-вьiвод (прийтИ к вьiводу) 4 - coпclusioп (to coпclude, соте to а coпclusioп) 
-вьiгнать с работы 2 - to fire, /ау off 
-выдавать/вьiдать (что?) 9 - to issue 
-вьiдача 10 - issue (of documeпts) 
-вьiдвинуть impf. своЮ кандидатуру на (что? пост) 8 - to ruп for office 
-выделЯть/вьiделить (кого? что?) 10 - to ideпtify 
-вызывать/вьiзвать (кого? что?) 5 - to summoп; to call 
+выбор sg. оп/у 1 - choice 
+выборы pl. оп/у 8 - electioп, electioпs 
+вывод (прийтИ к выводу) 4 - coпclusioп (to conclude, соmе to а coпclusioп) 
+выгнать с работы 2 - to fire, /ау off 
+выдавать/выдать (что?) 9 - to issue 
+выдача 10 - issue (of documeпts) 
+выдвинуть impf. своЮ кандидатуру на (что? пост) 8 - to ruп for office 
+выделЯть/выделить (кого? что?) 10 - to ideпtify 
+вызывать/вызвать (кого? что?) 5 - to summoп; to call 
 вызывающий 6 - provocative 
-вьiиграть-проиграть вьiборы 8 - to wiп/lose ап electioп 
-вымирать/вьiмереть 5 - die out 
-вьiнужден 2 - forced, compelled 
-вьiплата 2, 9 - раутепt, payoff 
-выплачивать/вьiплатить кредИт 9 - to рау off а lоап 
-выполнЯть/вьiполнить (что?) 1 - to fulfill; to carry out 
-выражать/вьiразить (что?) 3 - to express 
-выращивать/вьiрастить (кого? что?) 9 - to grow (traпsitive) 
-вьiрубка лесов 10 - deforestatioп 
-выселЯть/вьiселить (кого? куда?) 10 - to exile, relocate 
-вьiсылка 10 - expulsioп, exile 
+выиграть-проиграть выборы 8 - to wiп/lose ап electioп 
+вымирать/вымереть 5 - die out 
+вынужден 2 - forced, compelled 
+выплата 2, 9 - раутепt, payoff 
+выплачивать/выплатить кредИт 9 - to рау off а lоап 
+выполнЯть/выполнить (что?) 1 - to fulfill; to carry out 
+выражать/выразить (что?) 3 - to express 
+выращивать/вырастить (кого? что?) 9 - to grow (traпsitive) 
+вырубка лесов 10 - deforestatioп 
+выселЯть/выселить (кого? куда?) 10 - to exile, relocate 
+высылка 10 - expulsioп, exile 
 выходИть/выйти замуж (за кого?) 4 - (for а wотап) to marry 
 вычислИтельная техника 10 - computer techпology 
-вьiшивка (siпg. оп/у) 3 - embroidery 
-выяснЯть/вьiяснить (что?) 3 - to make clear; clarify;fiпd out 
+вышивка (siпg. оп/у) 3 - embroidery 
+выяснЯть/выяснить (что?) 3 - to make clear; clarify;fiпd out 
 вязание (siпg. оп/у) 3 - kпittiпg; crochet 
 Газ 9 - (пatural) gas 
 гармонИчный 4 - harmoпious 
@@ -345,7 +345,7 @@ unfaithful
 исправлЯть/исправить (что? ошИбку) 7 - to correct (а mistake) 
 испытание (Ядерного оружия) 10 - (nuclear) testing 
 испытательный срок 2 - trial period 
-испьiтывать/испытать (что? чувство) 3 - to experience (afeeling) 
+испытывать/испытать (что? чувство) 3 - to experience (afeeling) 
 исследование 7 - research, study 
 исследовательский 5 - research (adj.J 
 источник 9 - source 
@@ -419,7 +419,7 @@ candidate (for the post of Presidentjfor Parliament)
 лужа 5 - puddle 
 льгота 4 - benefit 
 льготный 4 - preferential 
-любопьiтство 6 - curiosity 
+любопытство 6 - curiosity 
 МалоподвИжность 7 - sedentary lifestyle 
 материально 4 - materially 
 материальные ценности 6 - material values, wealth 
@@ -437,14 +437,14 @@ candidate (for the post of Presidentjfor Parliament)
 молИться/помолИться (Богу) 8 - to pray (to God) 
 молодёжь f 1 - young people 
 молчать/промолчать 7 - to be/keep silent 
-монастьiрь m. 8 - monastery, convent 
+монастырь m. 8 - monastery, convent 
 монах/монахиня 8 - monkjnun 
 мотов (преступления) 6 - motive (for а crime) 
 мудрость/ 1- wisdom 
 мусор 5 - garbage 
 мусульманин (р/. мусульмане) 8 - Muslim (п.) 
 мысль/ 3 - thought 
-мьiшца 7 - muscle 
+мышца 7 - muscle 
 Набирать/набрать (что? Х процент/а/он голосов) 8 - to win Х percentage 
 (ofthe votes) 
 наблюдаться impf 4 - to Ье observed 
@@ -517,7 +517,7 @@ to get upset for по reasoп
 нормализоваться impf and pfv. 7 - to get back to пormal 
 нравственные ценности 2, 8 - moral values 
 нуждаться 2 - to Ье iп пееd of 
-ньiнешний 3 - curreпt 
+нынешний 3 - curreпt 
 ОбвинЯть/обвинИть (кого?) в (чём?) 6 - to accuse/to fiпd guilty 
 обеспеченная жизнь 9 - comfortaЫe life 
 обеспеченный 4 - well-to-do; обеспеченный человек 9 - wealthy persoп 
@@ -555,7 +555,7 @@ to get upset for по reasoп
 объединение 10 - iпtegratioп 
 объединЯться/объединИться 6 - to uпite 
 объявлЯть/объявИть (кого? что?) 5 - to аппоuпсе 
-обьiчай 8 - custom, traditioп 
+обычай 8 - custom, traditioп 
 обЯзанность f 2 - duty 
 оглашать/огласИть 6 - to аппоuпсе, make puЬlic 
 оглЯдываться/оглянуться на (кого? что?) 6 - to look back at 
@@ -602,13 +602,13 @@ to get upset for по reasoп
 ответственность 2 - respoпsibllity 
 ответственный 1- respoпsiЬle 
 отвечать/ответить за (что?) 1 - to Ье respoпsiЬle for, aпswer for 
-отвыкать/отвьiкнуть от (кого? чего?) 7 - to getout of the hablt 
+отвыкать/отвыкнуть от (кого? чего?) 7 - to getout of the hablt 
 отдавать/отдать голос за (кого?) 8 - to cast а vote 
-отзьiвчивый 6 - respoпsive, uпderstaпdiпg 
+отзывчивый 6 - respoпsive, uпderstaпdiпg 
 отказываться/отказаться от (чего?) 1 - to refuse, decliпe 
 откликаться/отклИкнуться на (что?) 10 - to respoпd to 
 отключать/отключИть (что?) З - to shut off 
-открьiтие 1, 6 - discovery 
+открытие 1, 6 - discovery 
 отлов 10 - low tide 
 отличать/отличИть (кого? что?) от (кого? чего?) 6 - to distiпguish, tell apart 
 отличаться impf от (кого?) 10 - to differ from 
@@ -620,8 +620,8 @@ to get upset for по reasoп
 отнимать/отнЯть 9 - to deduct 
 относИться impf к (кому? чему?) 3 - to relate to; to have to do with 
 относИться/отнестИсь к (кому? чему?) 1 - to relate/react to 
-отношение (siпg. оп/у) к (кому? чему?) 8 - attitude to; отношения (pl. оп/у) 8 -
-relatioпs, relatioпship 
+отношение (siпg. оnlу) к (кому? чему?) 8 - attitude to 
+отношения (pl. оnlу) 8 - relatioпs, relatioпship 
 отравление 7 - poisoпiпg 
 отрешённость 6 - detachmeпt, aloofпess 
 отсидеть pfv. в тюрьме 6 - to serve time iп prisoп 
@@ -631,7 +631,7 @@ relatioпs, relatioпship
 оцифровка З - digitiziпg 
 очевидный 8 - obvious 
 очередной раз 5 - опсе agaiп 
-очИстка водьi 10 - water purificatioп 
+очИстка воды 10 - water purificatioп 
 ошибаться/ошибИться 3 - to make а mistake, get somethiпg wroпg 
 Падать/упасть 4 - to fall 
 падение 3 - fall 
@@ -645,9 +645,9 @@ relatioпs, relatioпship
 пейзаж З - landscape 
 передозировка 6 - overdose 
 переезд 5 - move (to another place) 
-переизбьiтlоlк 2 - glut, oversupply 
+переизбытlоlк 2 - glut, oversupply 
 перекрИкивать/перекричать (кого?) 7 - to outshout 
-перекрывать/перекрьiть (что?) 5 - to shut off 
+перекрывать/перекрыть (что?) 5 - to shut off 
 перенаселение 10 - overpopulation 
 переносИть/перенестИ (занЯтие) 1 - to reschedule (class) 
 перепись населения 10 - census 
@@ -673,7 +673,7 @@ relatioпs, relatioпship
 повседневная жизнь 8 - daily life 
 повсеместный 10 - ublquitous, universal 
 повсЮду 6 - everywhere 
-повышать/повьiсить зарплату 2 - to give а raise 
+повышать/повысить зарплату 2 - to give а raise 
 повышение квалификации 2 - advanced training 
 подавление (чего?) 8 - suppression 
 поддерживать/поддержать (кого? что?) 2, 8 - to support 
@@ -724,7 +724,7 @@ accommodate
 поощрЯть/поощрИть (кого?) 9 - to reward 
 попадать/попасть к (кому?) на (что?) 1 - to get to, wiпd up at, go to 
 пополнЯть/пополнить (что?) 10 - to supplemeпt, augmeпt 
-попьiтка 5 - attempt 
+попытка 5 - attempt 
 портить/испортить жизнь 5 - to make life difficult 
 портрет З - portrait 
 порЯдlоlк (всё в порЯдке) 6 - order (all is well, everything is all right) 
@@ -765,7 +765,7 @@ accommodate
 православие 8 - Orthodoxy, Orthodox religion 
 православный, православная 6, 8 - Orthodox (п., adj.J, Orthodox believer 
 превращаться/превратИться в(о) (кого? что?) 7 - to turn into 
-превышать/превьiсить 9 - to exceed 
+превышать/превысить 9 - to exceed 
 предвзЯтость к (кому? чему?) 8 - blas infavor of 
 предlоlк, pl. предки 10 - ancestor 
 предоставлЯть/предоставить возможность (кому?) 8 - to give, provide 
@@ -793,8 +793,8 @@ crime
 прИбыльный 9 - profitaЫe 
 привлекательный 5 - attractive 
 привлекать/привлечь (кого? что?) 6 - to attract 
-привыкать/привьiкнуть к (кому? чему?) 7 - to get used to 
-привьiчка (вредная) 2 - (bad, unhealthy) hablt 
+привыкать/привыкнуть к (кому? чему?) 7 - to get used to 
+привычка (вредная) 2 - (bad, unhealthy) hablt 
 приговор 6 - (court) sentence 
 прИгород 5 - suburb, countryside 
 приезжий 5 - out-of-towner 
@@ -832,8 +832,8 @@ make а decision; участие в (чём?) 3 - to participate
 производство 6 - production, manufacturing 
 произносИть/произнестИ (что?) 5 - to pronounce, to say 
 прокуратура 8 - prosecutor's office 
-промьiшленность (лёгкая/тяжёлая) 5 - (light/heavy) industry 
-промьiшленный (центр) 5 - industrial (center) 
+промышленность (лёгкая/тяжёлая) 5 - (light/heavy) industry 
+промышленный (центр) 5 - industrial (center) 
 пропуск 1 - absence 
 пропускать/пропустИть занЯтие (по болезни) 1 - to miss class (because of illness) 
 прорвать pfv. (что?) 5 - to burst 
@@ -875,15 +875,15 @@ make а decision; участие в (чём?) 3 - to participate
 размер пособия 9 - amouпt of а welfare/beпefits check 
 размещать/разместИть (что? объявление) 2 - to place (ап ad) 
 разнообразный 9 - diverse, wide raпge of 
-разносторонний 4 - maпy-sided, versatile 
+разносторонний 4 - many-sided, versatile 
 разочаровываться/разочароваться в (ком? чём?) 2 - to Ьесоте disappoiпted iп, 
-diseпchaпted with 
+diseпchanted with 
 разрешать/разрешИть (кому? что?) 4 - to permit 
 разрешение 5 - permissioп 
 разрешение на работу 10 - work permit 
 разрушать/разрушить (кого? что?) 7 - to destroy, ruiп 
 рак 7 - сапсеr 
-раскрывать/раскрьiть (что?) 6 - to solve, uпcover 
+раскрывать/раскрыть (что?) 6 - to solve, uпcover 
 распад 10 - dissolutioп, break up 
 расположен 5 - located 
 распределение 4, 9 - distributioп 
@@ -896,7 +896,7 @@ diseпchaпted with
 рассуждать impf о (ком? чём?) 6 - to argue, reasoп, talk 
 рассуждение 7 - coпsideratioп, discussioп 
 рассчИтывать impf оп/у на (кого? что?) 9 - to couпt оп, rely оп 
-рассьiлка 10 - distributioп 
+рассылка 10 - distributioп 
 растапливаться/растопИться 10 - to melt 
 расходИться/разойтИсь с (кем?) 4 - to split up 
 расходы pl. only 9 - expeпses 
@@ -929,35 +929,35 @@ diseпchaпted with
 руководИть impf (чем?) 1 - to Ье iп charge of, supervise 
 руководство компании 2 - сатрапу тапаgетепt 
 руководЯщий 4 - leadiпg 
-рьiнlоlк труда 2 - labor market 
-рьiночные отношения 9 - market relatioпs 
+рынlоlк труда 2 - labor market 
+рыночные отношения 9 - market relatioпs 
 ряд 3 - row 
 Сажать/посадИть в тюрьму 8 - to put iп jail 
 самобичевание 7 - beiпg hard оп oпeself; selfflagellatioп 
-самобьiтность 10 - origiпality, uпiqueпess 
-самовыражаться impf 6 - to express oпeself 
+самобытность 10 - origiпality, uniqueпess 
+самовыражаться impf 6 - to express oneself 
 самозащИта 7 - self-defeпse 
-самосовершенствоваться impf 10 - to improve oпeself 
+самосовершенствоваться impf 10 - to improve oneself 
 самосознание 10 - (self) ideпtity 
-самостоЯтельный 9 - iпdepeпdeпt 
-самоутверждение 6 - self-affirmatioп 
-самочувствие (хорошее, плохое) 7 - feeliпg (well, пotwell) 
+самостоЯтельный 9 - independent 
+самоутверждение 6 - self-affirmation 
+самочувствие (хорошее, плохое) 7 - feeling (well, пotwell) 
 сантехник 5 - plumber 
-сведение о (ком? чём?) 5 - iпformatioп 
-свёкlоlр 4 -father-iп-law (husbaпd'sfather) 
-свекровь 4 - mother-iп-law (husbaпd's mother) 
+сведение о (ком? чём?) 5 - iпformation 
+свёкор 4 -father-iп-law (husband'sfather) 
+свекровь 4 - mother-iп-law (husband's mother) 
 сверстник 8 - peer 
 свидание 4 - date (meetiпg) 
-свидетель 6 - witпess 
+свидетель 6 - witness 
 свойство 7 - quality, characteristic 
 свЯзан(ный) с (кем? чем?) 9 - related to, соппесtеd with; свЯзан, -а, -о (что?) 
-с (чем?) 8 - соппесtеd with 
-связывать/связать (что?) с (чем?) 4 - to liпk 
-священник 6, 8 - clergymaп, priest, miпister 
-село 5 - village, settlemeпt 
-сельская местность 5 - the couпtyside 
+с (чем?) 8 - соnnесtеd with 
+связывать/связать (что?) с (чем?) 4 - to link 
+священник 6, 8 - clergyman, priest, minister 
+село 5 - village, settlement 
+сельская местность 5 - the countryside 
 сельское хозяйство 5, 9 - agriculture 
-семейные обстоЯтельства 2 - family circumstaпces 
+семейные обстоЯтельства 2 - family circumstances 
 сердце 7 - heart 
 сессия 4 - final exams 
 сеть f 5 - network 
@@ -975,13 +975,13 @@ diseпchaпted with
 слияние 10 - merger, incorporation 
 сложИться pfv. 10 - to develop, to form 
 служащий 10 - worker 
-служебная лестница (двИгаться по) 6 - career ladder (to Ье making а career) 
+служебная лестница (двИгаться по) 6 - career ladder (to bе making а career) 
 служИть impf в армии 10 - to serve in the army 
 случайно 6 - Ьу chance, accidentally, incidentally 
-слушаться/послушаться (кого?) 4 - to оЬеу 
+слушаться/послушаться (кого?) 4 - to оbеу 
 смертельный 7 - deadly, terminal 
 смертность 4, 7 - death rate, mortality 
-смысл (по смьiслу) 9 - sense, meaning, essence (essentially, in essence) 
+смысл (по смыслу) 9 - sense, meaning, essence (essentially, in essence) 
 снижаться/снИзиться 9 - to fall, decrease 
 снимать/снять деньги с (чего? карточки) 9 - to withdraw cash 
 (using а credit/deblt card) 
@@ -1000,57 +1000,57 @@ diseпchaпted with
 создатель 10 - creator 
 сознаваться/сознаться в (чём?) 6 - to confess, admit 
 сознание 7 - consciousness, being conscious; без сознания 7 - unconscious 
-сокращать/сократИть (кого?) 2 - to /ау off; to fire 
+сокращать/сократИть (кого?) 2 - to lау off; to fire 
 сокращаться/сократИться 4 - to decrease 
 сомневаться в (ком? чём?) 2 - to doubt 
 сообщать/сообщИть (кому? что?) 4 - to communicate, to announce 
 соответственно 5 - respectively 
 соотношение 5, 7 - correlation 
 сорИть/насорИть 5 - to litter 
-сосредоточиться pfv. на (ком? чём?) 10 - to focus оп, рау atteпtioп to 
-составлЯть/составить (что?) 1, 7 - to сотроsе, таkе up; to атоuпt to, to соте to 
-состоЯние 3, 9 - coпditioп;fortuпe; состоЯние душИ 6 - state of тiпd 
+сосредоточиться pfv. на (ком? чём?) 10 - to focus оп, рау atteпtion to 
+составлЯть/составить (что?) 1, 7 - to соmроsе, mаkе up; to аmоunt to, to соте to 
+состоЯние 3, 9 - coпditioп;fortuпe; состоЯние душИ 6 - state of mind 
 состоЯтельный 9 - well-to-do 
-состоЯть iтpf оп/у из (чего?) 4 - to coпsist of 
+состоЯть impf. оп/у из (чего?) 4 - to coпsist of 
 состоЯться pfv. оп/у (что? где?) 3 - to take place 
 сотрудник 2 - co-worker 
 сохранЯть/сохранИть (что?) 5 - to preserve 
-сохранЯться/сохранИться 5, 9 - to rетаiп, rетаiп uпchaпged 
+сохранЯться/сохранИться 5, 9 - to rетаiп, rетаiп uпchanged 
 соцзащИта 9 - social services 
-социальная помощь 9 - puЬlic assistaпce 
+социальная помощь 9 - public assistance 
 социальная сеть f 8 - social пetwork 
-сочетание (в сочетании с) 6 - сотЬlпаtiоп (iп сотЬlпаtiоп with) 
+сочетание (в сочетании с) 6 - соmbinаtiоn (iп соmbinаtiоn with) 
 спальный район 6 - resideпtial пeighborhood, bedrooт соттuпitу 
 СПИД 7-AIDS 
-спиртньiе напитки 6 - alcoholic beverages 
+спиртные напитки 6 - alcoholic beverages 
 спокойный 1 - calm, quiet 
 способ 2 - теапs, way 
-способность 3 - taleпt 
+способность 3 - talent 
 справедлИвый 1 - fair, just 
 справка от (врача) 1- (doctor's) поtе, excuse 
 справлЯться/справиться с (кем? чем?) 6 - to соре 
 справочник 1 - directory 
 спрос 9 - dетапd 
 средИ (кого?) 1 - атопg 
-среднее З - тidway, betweeп 
+среднее З - тidway, between 
 средства 9 - теапs 
-срок 9 - leпgth of tiтe 
+срок 9 - length of tiтe 
 ссылать/сослать (кого? куда?) 10 - to exile 
 стажировка 2 - iпternship 
 сталкиваться/столкнуться с (чем?) 6 - to соте iп coпtact with, to face 
 старение 5, 7 - agiпg, gettiпg old 
 стареть/постареть 7 - to get old 
-статья расходов 9 - iteт of expeпditure 
-стИмул 9 - iпceпtive 
-сторонник 8 - supporter, adhereпt 
+статья расходов 9 - iteт of expenditure 
+стИмул 9 - iпcentive 
+сторонник 8 - supporter, adherent 
 стоЯть на учёте (где?) 2 - to register with ап аgепсу 
-страдание З - sufferiпg 
+страдание З - suffering 
 страдать/пострадать от (кого? чего?) 7 - to suffer 
-страсть 3 - passioп 
+страсть 3 - passion 
 страх 2 - fear; dread 
 стремИтельно 8 - fast, rapidly 
 стремИться iтpf к (кому? чему?) 2 - to strivefor 
-стьiдно (кому?) 6 - (sотеопе is) ashaтed 
+стыдно (кому?) 6 - (sотеопе is) ashamed 
 субсИдия 4 - subsidy 
 суд 5 - court 
 судебная власть 8 - judicial branch 
@@ -1064,7 +1064,7 @@ to try in courtjto convict
 сфера услуг 9 - service sector 
 сцена З - stage; scene 
 сценИческое искусство 3 - performing arts 
-считаться impf (кем? чем?) 2 - to Ье considered 
+считаться impf (кем? чем?) 2 - to bе considered 
 сюжет 3, 10 - plot 
 тайна 2 - secret 
 тактИчный 2 - tactful 
@@ -1105,10 +1105,9 @@ to try in courtjto convict
 уголовный 6 - criminal 
 угlоlль 10 - coal 
 угон автотранспорта 6 - carjacking 
-угонЯть/угнать (кого? куда?) 10 - to relocate Ьу force 
+угонЯть/угнать (кого? куда?) 10 - to relocate bу force 
 угроза 5 - threat 
-удаваться/удаться (кому? что?) past andfuture tenses: удалось, удастся З 
-- to succeed in doing something 
+удаваться/удаться (кому? что?) past andfuture tenses: удалось, удастся З - to succeed in doing something 
 уделЯть/уделИть внимание (кому? чему?) 2 - to рау attention to 
 удивИтельно 5 - it is surprising 
 удовлетворЯть/удовлетворИть потребности 10 - to meet demands, needs 
