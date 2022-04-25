@@ -1,6 +1,6 @@
 АбсолЮтно 3 - absolutely 
 аварИйное состоЯние 5 - unsafe condition 
-акварель f 3 - watercolor 
+акварель (f) 3 - watercolor 
 аккуратный 2 - neat, tidy, well organized; orderly 
 актуально 1 - timely 
 акция (акции) 9 - share (stocks) 
@@ -17,14 +17,14 @@
 бездомный 5 - homeless 
 безопасность 4 - security 
 безработица 2 - unemployment, joblessness 
-безработный (п.) 2 - unemployed (person) 
+безработный (n.) 2 - unemployed (person) 
 безразлИчный 6 - indifferent 
 безусловно 1 - unconditionally; for sure 
-белкИ, sing. белlоlк 7 - proteins 
+белкИ (sing. белoк) 7 - proteins 
 бельэтаж 3 - dress circle; first tier 
 бензИн 9 - gas (gasoline) 
-беречь impf (кого?) 4 - to take good care of 
-беспокоить impf (кого?) 5 - to bother 
+беречь  (impf кого?) 4 - to take good care of 
+беспокоить  (impf кого?) 5 - to bother 
 беспокойство 8 - concern 
 бессонница 7 - insomnia 
 бИржа труда 6 - job center 
@@ -42,13 +42,13 @@
 богослужение 8 - religious service 
 бодрый 7 - healthy; hale and hearty 
 большинство (кого? чего?) 2, 9 - majority 
-бороться impf за (что? права) 4 - to fightfor (one's rights) 
-борьба (sing. оп/у) за (что?) 4 - fight 
+бороться  (impf за что? права) 4 - to fight for (one's rights) 
+борьба (sing. оnlу) (за что?) 4 - fight 
 ботаник 1 - botanist (slang for а nerd) 
 брать/взять кредИт 9 - take out а loan 
-брать/взять пример с (кого?) 6 - to follow someone's example 
+брать/взять пример (с кого?) 6 - to follow someone's example 
 бронхит 7 - bronchitis 
-буддИйский 8 - Buddhist (adj.J 
+буддИйский 8 - Buddhist (adj.) 
 быт 3 - everyday life 
 Вакансия (вакантное место) 2 - job орепiпg 
 введение полИтики 10 - estaЬlishing, introducing а policy 
@@ -57,7 +57,7 @@
 вежливый 7 - polite 
 венчаться/повенчаться 8 - to get married in а religious ceremony 
 верный (друг) 5 - faithful, real (friend) 
-веровать impf в(о) (кого? что?) 10 - to believe (in God) 
+веровать (impf в(о) кого? что?) 10 - to believe (in God) 
 вероЯтно 2 - рrоЬаblу 
 версия (следствия) 6 - (investigative) version 
 верующий 8 - believer 
@@ -66,26 +66,26 @@
 вестИ денежные дела 9 - to manage топеу 
 вестИ себЯ 2 - to behave 
 ветви власти 8 - branches of government 
-вечное (п.) 6 - eternity 
+вечное (n.) 6 - eternity 
 вечный 6 - eternal 
 взаимодействие между (кем? чем?) 2 - interaction 
 взаимопонимание 4 - mutual understanding 
 взг лЯды 6 - views 
 взрослеть/повзрослеть 5 - to grow up 
-взрослый (п.) 6 - adult 
+взрослый (n.) 6 - adult 
 взрыв 8 - explosion 
 взрывное устройство 8 - explosive device 
 взятка 1, 5 - bribe 
 вид 7 - kind, type 
 вИрус 7 - virus 
-вкладывать/вложить (что?) в(о) (что?) 9 - to invest 
-включать/включИть (что?) в(о) (что?) З - to include 
+вкладывать/вложить (что? вo что?) 9 - to invest 
+включать/включИть (что? вo что?) З - to include 
 вкус 3 - taste 
-владелlеlц (совладелец) 9 - owner (co-owner) 
+владелец (совладелец) 9 - owner (co-owner) 
 власть 5, 8 - power, authorities, administration 
-влиЯть/повлиЯть на (кого? что?) 1, 5 - to influence 
+влиЯть/повлиЯть (на кого? что?) 1, 5 - to influence 
 вложение 9 - investment 
-вмешиваться/вмешаться во (что?) 8 - to interfere in 
+вмешиваться/вмешаться (во что?) 8 - to interfere in 
 вне 3 - outside of 
 внедрение 10 - implemeпtatioп 
 внешняя полИтика 8 - foreigп policy 
@@ -98,11 +98,11 @@
 воевать/завоевать (кого? что?) 6 - to fight for /to coпquer 
 военнопленный 10 - prisoпer of war {POW} 
 возглавлЯть/возглавить (что?) 8 - to head, Ье iп charge 
-воздействие на (кого? что?) 8 - iпflueпce, impact оп 
+воздействие (на кого? что?) 8 - iпflueпce, impact оп 
 воздух 5 - air 
 воздушный транспорт 7 - aviatioп 
-возможность f 2 - possibllity; opportuпity 
-возникать/вознИкнуть (что?) у (кого?) 2 - to origiпate 
+возможность(f)2 - possibllity; opportuпity 
+возникать/вознИкнуть (что? у кого?) 2 - to origiпate 
 возобновлЯемый 10 - rепеwаblе 
 волна 10 - wave 
 воля 7 - willpower 
@@ -112,12 +112,12 @@
 воспитание 7 - upbriпgiпg 
 воспИтанный 3 - well brought up 
 воспИтывать/воспитать (кого?) 3 - to briпg up, educate 
-воспользоваться pfv. (чем?) 6 - to make use of 
+воспользоваться (pfv. чем?) 6 - to make use of 
 воспоминание 5 - memory, remiпisceпce 
 восстанавливаться/восстановИться 7 - to regeпerate, recover 
-восстание роботов, машИн 10 - cybernetic revolt, machiпe uprisiпg 
+восстание (роботов, машИн) 10 - cybernetic revolt, machiпe uprisiпg 
 востребованный 2 - iп demaпd 
-впечатление от (кого? чего?) 5 - impressioп 
+впечатление (от кого? чего?) 5 - impressioп 
 вполне 2 - fully, completely 
 вражда (национальная) 6 - hate crime, пatioпal/racial aпimosity 
 вражда 8 - aпtagoпism, aпimosity, coпflict 
@@ -127,20 +127,21 @@
 всё равно 1 - all the same 
 всенародный 1- пatioпal 
 вуз 1 - ап iпstitutioп of higher learniпg 
-выбор sg. оп/у 1 - choice 
-выборы pl. оп/у 8 - electioп, electioпs 
+выбор (sg. оnlу) 1 - choice 
+выборы (pl. оnlу) 8 - electioп, electioпs 
 вывод (прийтИ к выводу) 4 - coпclusioп (to conclude, соmе to а coпclusioп) 
-выгнать с работы 2 - to fire, /ау off 
+выгнать с работы 2 - to fire, lау off 
 выдавать/выдать (что?) 9 - to issue 
 выдача 10 - issue (of documeпts) 
-выдвинуть impf. своЮ кандидатуру на (что? пост) 8 - to ruп for office 
+выдвинуть  (impf) своЮ кандидатуру (на что? пост) 8 - to ruп for office 
 выделЯть/выделить (кого? что?) 10 - to ideпtify 
 вызывать/вызвать (кого? что?) 5 - to summoп; to call 
 вызывающий 6 - provocative 
-выиграть-проиграть выборы 8 - to wiп/lose ап electioп 
+выиграть (выборы) 8 - to win аn election
+проиграть (выборы) 8 - to lose аn election 
 вымирать/вымереть 5 - die out 
 вынужден 2 - forced, compelled 
-выплата 2, 9 - раутепt, payoff 
+выплата 2, 9 - рауmеnt, payoff 
 выплачивать/выплатить кредИт 9 - to рау off а lоап 
 выполнЯть/выполнить (что?) 1 - to fulfill; to carry out 
 выражать/выразить (что?) 3 - to express 
@@ -150,73 +151,73 @@
 высылка 10 - expulsioп, exile 
 выходИть/выйти замуж (за кого?) 4 - (for а wотап) to marry 
 вычислИтельная техника 10 - computer techпology 
-вышивка (siпg. оп/у) 3 - embroidery 
+вышивка (siпg. оnlу) 3 - embroidery 
 выяснЯть/выяснить (что?) 3 - to make clear; clarify;fiпd out 
-вязание (siпg. оп/у) 3 - kпittiпg; crochet 
+вязание (siпg. оnlу) 3 - kпittiпg; crochet 
 Газ 9 - (пatural) gas 
-гармонИчный 4 - harmoпious 
-гастарбайтер 10 - migraпt worker 
+гармонИчный 4 - harmonious 
+гастарбайтер 10 - migrant worker 
 гастрИт 7 - gastritis 
-гендерный прИзнак 4 - geпder 
+гендерный прИзнак 4 - gender 
 герой, героИня (кнИги, фИльма) - protagoпist (of а book, movie) 
 гИбельf 10 - death, ruiп 
 гИбнуть/погИбнуть 7 - to die (iп ап accideпtjwar) 
 глава (семьи, государства) 4, 8 - head of (family, state) 
 гладить/погладить (кого? что?) 4, 9 - to iroп; to pet 
-глИна (siпg. оп/у) З - pottery 
+глИна (siпg. оnlу) З - pottery 
 глобальное потепление 10 - global warmiпg 
 глубоко 8 - deeply 
-глушь f 5 - backwoods 
-голодать impf 7 - to starve 
-голос pl. голоса 8 - vote 
-голосовать/проголосовать за (кого? что?)/против (кого? чего?) 8 -
-to vote for/agaiпst 
-гордИться impf (кем? чем?) 1- to Ье proud of 
+глушь (f) 5 - backwoods 
+голодать  (impf) 7 - to starve 
+голос (pl. голоса) 8 - vote 
+голосовать/проголосовать (за кого? что?/против кого? чего?) 8 - to vote for/agaiпst 
+гордИться (impf кем? чем?) 1- to Ье proud of 
 городская дума 5 - city governmeпt 
 горЯчая лИния 4 - hotliпe 
-господствовать impf 10 - to reigп 
+господствовать (impf) 10 - to reigп 
 гостеприИмный 4 - hospitaЫe 
 государственный орган 8 - governmeпt office 
 государство 8 - state, couпtry 
 грабёж 6 - robbery 
 гравЮра 3 - priпt (as ап art form) 
-гражданин pl. граждане; gen. pl. граждан З - citizeп 
+гражданин (pl. граждане; gen. pl. граждан) З - citizen 
 гражданская война 10 - civil war 
 гражданское общество 8 - civil society 
-гражданство 10 - citizeпship 
-грамотно 7 - correctly, coтpeteпtly 
+гражданство 10 - citizenship 
+грамотно 7 - correctly, competently 
 график (работы) 2 - (work) schedule 
 графика (siпg. оп/у) 3 - graphic art 
-греться/погреться (на плЯже) 7 - to suпbathe (оп the beach) 
-грех 6 -siп 
-грипп 7 -Jlu грозИть iтpf (кому? чему?) 10 - to threateп 
-грязь f 5 - dirt, filth 
+греться/погреться (на плЯже) 7 - to sunbathe (оn the beach) 
+грех 6 - sin 
+грипп 7 - flu 
+грозИть (impf кому? чему?) 10 - to threateп 
+грязь (f) 5 - dirt, filth 
 губернатор 5 - governor 
-Данные pl. (по данным) 4 - data (accordiпg to the data) 
-двИгаться iтpf 7 - to тоvе, Ье active 
-движение 6 - тоvетепt 
-двойственное отношение к (кому? чему?) 9 - ап aтblvaleпt attitude 
-деградИровать iтpf 6 - to degrade 
+Данные (pl. по данным) 4 - data (accordiпg to the data) 
+двИгаться (impf) 7 - to mоvе, Ье active 
+движение 6 - mоvеmеnt 
+двойственное отношение (к кому? чему?) 9 - аn ambivalent attitude 
+деградИровать (impf) 6 - to degrade 
 действие З - theater act 
-действовать iтpf 5 - to act 
+действовать (impf) 5 - to act 
 делИть/разделИть - to divide 
 делИться/поделИться (чем? с кем?) 1- to share 
 депрессия 7 - depressioп 
-деревянный 5 - woodeп 
-держать iтpf (кого? что?) 2 - to keep; hold 
-держаться iтpf за (что? рабочее место) 2 - to hold опtо (oпe'sjob) 
+деревянный 5 - wooden
+держать (impf кого? что?) 2 - to keep; hold 
+держаться (impf за что? рабочее место) 2 - to hold опtо (oпe'sjob) 
 деятельность 3 - creative activity 
 диабет 7 - diabetes 
 дирижёр 3 - coпductor 
 диспетчер 7 - dispatcher 
 добавлЯть/добавить (что?) 1, 9 - to add (to) 
 добиваться/ добИться (чего? цели) 4 - to achieve (with effort) (goal) 
-доброволlеlц 10 - voluпteer 
+доброволец 10 - voluпteer 
 доброжелательный 1 - kiпd, geпial 
-догадываться/ догадаться о (чём?) 6 - to guess 
-додумываться/ додуматься до (чего?) 5 - to соте up with ап idea 
+догадываться/ догадаться (о чём?) 6 - to guess 
+додумываться/ додуматься (до чего?) 5 - to соmе up with аn idea 
 доза 6 - dose 
-документальное кино 3 - docuтeпtary filтs 
+документальное кино 3 - docuтeпtary films 
 долг 9 - debt 
 должность 2 - positioп (iп а со трапу) 
 доля 9 - share 
@@ -226,42 +227,43 @@ to vote for/agaiпst
 дорожное хозЯйство 9 - road coпstructioп апd таiпtепапсе 
 дословно 9 - literally, word for word 
 доставка З - delivery 
-достатlоlк 9 - prosperity, afflueпce 
+достатoк 9 - prosperity, afflueпce 
 достаточно 1 - eпough, sufficieпt 
 достигать/достИгнуть (чего?) 1- to achieve, reach 
 достижение 1, 6 - achievemeпt; accomplishmeпt 
 достоинство 2 - advaпtage; merit; streпgth 
 достопримечательность 5 - poiпt ofiпterest 
-доступный 3 - accessiЬle; (не)доступная цена 5 - (uп)affordaЫe price 
+доступный 3 - accessiЬle; 
+(не)доступная цена 5 - (uп)affordaЫe price 
 досуг 3 - leisure time 
-доход 9 - iпсоте 
-драка 6 - scuffle,Jistfight 
+доход 9 - inсоmе 
+драка 6 - scuffle,fistfight 
 древний З - апсiепt 
 духовный 6 - spiritual 
 душа (по душе) 2 - soul (to опе's likiпg) 
-Единственный 3 - sole, оп/у 
+Единственный 3 - sole, оnlу 
 ежедневно 2 - daily 
-естественнонаучный 2 - пatural scieпces (adj.J 
+естественнонаучный 2 - пatural scieпces (adj.) 
 естественный 7 - пatural 
 Жалеть/пожалеть (кого?) 4 - to pity,feel sorry for sотеопе 
-жаловаться/пожаловаться (кому?) на (кого? что?} 2 - to complaiп 
-желудlоlк 7 - stomach 
-жениться impf апd pfv. (на ком?) - (for а тап) to marry 
-жениться imрf/пожениться (по complemeпt) - (for two persoпs) to get married 
+жаловаться/пожаловаться (кому? на кого? что?} 2 - to complaiп 
+желудoк 7 - stomach 
+жениться (impf апd pfv. на ком?) - (for а man) to marry 
+жениться (imрf)/пожениться (nо complement) - (for two persoпs) to get married 
 жертва (чего?) 4 - victim, casualty 
 жизнерадостный 7 - cheerful 
 жилИщный (условия) 5 - housiпg (coпditioпs) 
-жильё (siпg. оп/у) 4 - housiпg 
+жильё (siпg. оnlу) 4 - housiпg 
 жир 7-fat 
-жить impf в кредИт 9 - to live оп credit 
+жить (impf в кредИт) 9 - to live (оп credit)
 Забирать/забрать в армию 6 - to draft iпto the army 
 заболевание 7 - illпess, disease 
 забота 6 - takiпg care of 
-заботиться/позаботиться о (ком? чём?) 4 - to carefor 
+заботиться/позаботиться (о ком? чём?) 4 - to carefor 
 заботливый 4 - cariпg 
 завИдовать/позавИдовать (кому? чему?) 7 - to епvу 
-зависеть impf от (кого? чего?) 7 - to depeпd оп 
-завИсимость от (чего?) 6 - addictioп 
+зависеть (impf от кого? чего?) 7 - to depeпd оп 
+завИсимость (от чего?) 6 - addictioп 
 зависимый 4 - depeпdeпt 
 загар 7 - suпtaп 
 загрязнение 8 - pollutioп 
@@ -273,8 +275,8 @@ to vote for/agaiпst
 заказчик 3 - clieпt 
 закалЯться/закалИться 7 - to build up опе's resistaпce 
 закат 3 - suпset 
-заключать/заключИть брак 4 - to get married ( official) 
-закон 4- /aw 
+заключать/заключИть брак 4 - to get married (official) 
+закон 4- law 
 законодательная власть 8 - legislature 
 законодательство 8 - legislatioп; laws 
 заложник 8 - hostage 
@@ -286,9 +288,9 @@ to vote for/agaiпst
 занимать/занять первое место 5 - to place first 
 запас 10 - reserves, supply 
 запах 7 - sceпt, smell 
-запрет на (что?) 8 - Ьап оп 
-заработlоlк 9 - salary, paycheck 
-заражать(ся)/заразИть(ся) (кого? чем?) от (кого?) 7 - to iпfect; to catch а disease 
+запрет (на что?) 8 - Ьап оп 
+заработoк 9 - salary, paycheck 
+заражать(ся)/заразИть(ся) (кого? чем? от кого?) 7 - to iпfect; to catch а disease 
 заранее 4 - iп advaпce 
 зарплата 2 - salary 
 зарубежный З -foreigп 
@@ -297,34 +299,34 @@ to vote for/agaiпst
 засыпать/заснуть 3 - to fall asleep 
 затапливать/затопИть (что?) 5, 10 - to flood 
 зато 5 - but, however, оп the other haпd 
-затру днЯться impf ответить 9 - to have по орiпiоп 
+затруднЯться (impf) ответить 9 - to have по орiпiоп 
 захватывать/захватИть (кого? что?) 8 - to seize, capture 
 защИта 7 - protectioп 
 заявлЯть/заявИть (кому? что?) 2 - to declare, аппоuпсе 
-звонlоlк 1 - bell, school bell 
+звонoк 1 - bell, school bell 
 здравоохранение 8 - puЬlic health 
 землЯ 9 - Earth, laпd 
 земной шар 10 - the Earth, globe 
 зло 7 - harm 
-злоупотреблЯть impf (чем? алкоголем) 7 - to abuse (alcohol) 
+злоупотреблЯть (impf чем? алкоголем) 7 - to abuse (alcohol) 
 знание 1 - kпowledge 
-значение (иметь значение) 4 - теапiпg (to Ье meaпiпgful) 
-зона (экономическая) 5 - (есопотiс) zопе 
+значение (иметь значение) 4 - теапiпg (to Ье meaningful) 
+зона (экономическая) 5 - (есоnоmiс) zопе 
 зрение 7 - eyesight, visioп 
 зрИтель 3 - theater-goer; зрители - audieпce 
 зря 7 - iп vaiп, for по good reasoп 
 зять 4 - soп-iп-law; brother-iп-law 
-Избавлять/избавить от (кого? чего?) 10 - to free 
+Избавлять/избавить (от кого? чего?) 10 - to free 
 избегать/избежать (чего?) 7 - to avoid 
 избивать/избИть (кого?) 4 - to beat up 
 избиратель 8 - voter 
 избирательная кампания 8 - election campaign 
-избирательный участlоlк - polling place 
+избирательный участoк - polling place 
 извлекать/извлечь пользу 10 - to benefitfrom 
-издержки на (что?) 10 - expenses, outlays 
+издержки (на что?) 10 - expenses, outlays 
 изменение 8 - change 
-изменЯть/изменИть (кого? что?) 2 - to change, alter; (кому?) с (кем?) 4 - to Ье 
-unfaithful 
+изменЯть/изменИть (кого? что?) 2 - to change, alter; 
+изменЯть/изменИть (кому? с кем?) 4 - to Ье unfaithful 
 изображать/изобразИть (кого? что?) З - to portray 
 изобразИтельное искусство 3 - visual art 
 иначе 6 - otherwise 
@@ -339,42 +341,40 @@ unfaithful
 исключИтельность 6 - superiority, exclusivity 
 искоренЯть/искоренИть (что?) 8 - to eradicate 
 искусственный интеллект 10 - artificial intelligence 
-исповедовать impf (что? релИгию) 8 - to profess а religious belief 
+исповедовать (impf что? релИгию) 8 - to profess а religious belief 
 исполнИтельная власть 8 - executive branch 
-использовать impf (кого? что?) 7 - to use 
+использовать (impf кого? что?) 7 - to use 
 исправлЯть/исправить (что? ошИбку) 7 - to correct (а mistake) 
 испытание (Ядерного оружия) 10 - (nuclear) testing 
 испытательный срок 2 - trial period 
-испытывать/испытать (что? чувство) 3 - to experience (afeeling) 
+испытывать/испытать (что? чувство) 3 - to experience (a feeling) 
 исследование 7 - research, study 
-исследовательский 5 - research (adj.J 
+исследовательский 5 - research (adj.) 
 источник 9 - source 
 исчезновение 10 - disappearance 
 исчерпание 10 - depletion 
-иудейский 8 - ]ewish,]udaic 
+иудейский 8 - jewish,judaic 
 Кадровое агентство 2 - employment agency 
 кадры 2 - skilled workers 
 казна 9 - state treasury 
 калорИйный 7 - having high calories 
 каменный 5 - stone, masonry ( adj.) 
 канализация 5 - sewage system 
-кандидат от (чего? партии) на/во (что? на пост президента/в депутаты) 8 -
-candidate (for the post of Presidentjfor Parliament) 
+кандидат (от чего? партии на/во что? на пост президента/в депутаты) 8 - candidate (for the post of President; for Parliament) 
 кардинально 4 - radically 
-кататься/покататься на (чём? доске) 6 - to go for а ride (to skateboard) 
-каторга 2 - labor сатр (usedfiguratively, something (ajob) опе dislikes) 
+кататься/покататься (на чём? доске) 6 - to go for а ride (to skateboard) 
+каторга 2 - labor саmр (used figuratively, something (ajob) опе dislikes) 
 качественно 2 - of good quality 
 качество 7 - quality 
 квалифицИрованный 2 - qualified 
 квартплата 5 - rent 
 керамика З - ceramics 
-класть/положИть деньги на (карточку, счёт) 9 - to deposit топеу 
-(into ап account) 
+класть/положИть деньги (на карточку, счёт) 9 - to deposit mоnеу (into ап account) 
 клетка 7 - cell (нервные клетки 7 - nerve cells) 
 кожа 7 -skin 
 кожаный 6 - leather (adj.J 
-колебаться impf 9 - to fluctuate 
-коллега т. or f 2 - colleague, co-worker 
+колебаться (impf) 9 - to fluctuate 
+коллега (m or f) 2 - colleague, co-worker 
 коллектив 2 - co-workers 
 командировка 6 - business trip 
 коммунальные услуги (газ, вода, свет) 4 - utilities (gas, water, electricity) 
@@ -387,15 +387,15 @@ candidate (for the post of Presidentjfor Parliament)
 кормИть/накормИть (кого?) 3 - to feed 
 коррупция 5 - corruption 
 костёл 8 - а Catholic church 
-кость f 7 - Ьопе 
-краеведческий (музей) 5 - /оса/ history (adj.) (museum) 
+кость (f) 7 - Ьопе 
+краеведческий (музей) 5 - lосаl history (adj.) (museum) 
 кража 6 - theft, burglary 
 кран 5 - faucet 
 крепкая семья 4 - strong family 
-крестИть impf & pfv. - to baptize, christen 
+крестИть (impf & pfv.) - to baptize, christen 
 криминальный 5 - criminal 
-критиковать impf (кого? что?) 2 - to criticize 
-кричать/закричать на (кого?) 6 - to shout,yell 
+критиковать (impf кого? что?) 2 - to criticize 
+кричать/закричать (на кого?) 6 - to shout,yell 
 кровяное давление 7 - Ыооd pressure 
 кругом 5 - all around 
 крутой 6 - cool (slang) 
@@ -404,7 +404,7 @@ candidate (for the post of Presidentjfor Parliament)
 кукла 5 - doll, puppet 
 купать/искупать (кого?) 4 - to bathe 
 курИльщик 7 - smoker 
-курс (доллара) к (чему? рублЮ) 9 - exchange rate (of the dollar to the ruЫe) 
+курс (доллара к чему? рублЮ) 9 - exchange rate (of the dollar to the ruЫe) 
 ЛенИться/обленИться 10 - to be/get lazy 
 либерально настроенный 10 - liberal-minded 
 лИбо 6 - either, or 
@@ -412,7 +412,7 @@ candidate (for the post of Presidentjfor Parliament)
 лИчно 3 - personally 
 лишать/лишить (кого? чего?) 2 - to deprive of 
 лИшний вес 7 - extra weight 
-лишь 3 -оп/у 
+лишь 3 -оnlу 
 лодырь 9 - lazy person 
 ложа 3 - Ьох seats (in а theater) 
 ломкость 7 - brittleness 
@@ -428,39 +428,38 @@ candidate (for the post of Presidentjfor Parliament)
 менЯть/поменЯть работу 2 - to change jobs 
 мера 7 - measure, step 
 меры (принять) 5, 6 - (to take) measures 
-местный 9 - /оса/ 
-мечеть f 8 - mosque 
+местный 9 - lосаl 
+мечеть (f) 8 - mosque 
 мечта 5 - dream, day dream 
 мировоззрение 6 - worldview 
 мода 4 - fashion 
 мозг 3, 7 - brain 
 молИться/помолИться (Богу) 8 - to pray (to God) 
-молодёжь f 1 - young people 
+молодёжь (f) 1 - young people 
 молчать/промолчать 7 - to be/keep silent 
-монастырь m. 8 - monastery, convent 
+монастырь (m.) 8 - monastery, convent 
 монах/монахиня 8 - monkjnun 
 мотов (преступления) 6 - motive (for а crime) 
-мудрость/ 1- wisdom 
+мудрость (f) 1- wisdom 
 мусор 5 - garbage 
-мусульманин (р/. мусульмане) 8 - Muslim (п.) 
-мысль/ 3 - thought 
+мусульманин (рl. мусульмане) 8 - Muslim (п.) 
+мысль 3 - thought 
 мышца 7 - muscle 
-Набирать/набрать (что? Х процент/а/он голосов) 8 - to win Х percentage 
-(ofthe votes) 
-наблюдаться impf 4 - to Ье observed 
-надеяться impf на (что?) 1 - to hope 
-назначать/назначить (кого?) на (что?) 8 - to appoint 
+Набирать/набрать (что? Х процент/а/он голосов) 8 - to win Х percentage (ofthe votes) 
+наблюдаться (impf) 4 - to Ье observed 
+надеяться (impf на что?) 1 - to hope 
+назначать/назначить (кого? на что?) 8 - to appoint 
 наизусть 10 - Ьу heart 
 наказание 8 - punishment 
-наказывать/наказать (кого?) за (что?) - to punish 
+наказывать/наказать (кого? за что?) - to punish 
 палочные (деньги) 9 - cash 
 налог 9 - tax 
 налог с продаж 9 - sales tax 
-намерен, -а (он намерен, она намерена) 10 - to intend (he intends, she intends) 
+намерен (-а он намерен, она намерена) 10 - to intend (he intends, she intends) 
 наоборот 2 - the opposite 
-напоминать/напомнить (кому?) о (чём?) 7 - to remind 
+напоминать/напомнить (кому? о чём?) 7 - to remind 
 направление 1, 8 - direction 
-направлЯть/направить (финансИрование) на (кого? что?) 9 - to allocate (funds) 
+направлЯть/направить (финансИрование на кого? что?) 9 - to allocate (funds) 
 напротив 6 - opposite 
 напряжённость 6 - tension 
 наравне (быть) 4 - (to Ье) equal to 
@@ -470,7 +469,7 @@ candidate (for the post of Presidentjfor Parliament)
 нарушать/нарушить (что?) 2 - to violate 
 нарушение 8 - violation 
 нарушение обмена 7 - metabolic disorder 
-наряду с (чем?) 8 - along with 
+наряду (с чем?) 8 - along with 
 населённый пункт 5 - settlement, community 
 насилие 4 - violence 
 насколько 5 - how much, to what extent 
@@ -488,7 +487,7 @@ candidate (for the post of Presidentjfor Parliament)
 неграмотный 10 - illiterate 
 недавний 2 - recent 
 недвИжимость 5, 9 - real estate 
-недостатlоlк 2 - drawback; shortcoming; weakness 
+недостаток 2 - drawback; shortcoming; weakness 
 недоступность 6 - inaccessibllity; moral rectitude 
 незабываемый 1 - unforgettaЫe 
 незавИсимость 4 - independence 
@@ -497,28 +496,27 @@ candidate (for the post of Presidentjfor Parliament)
 незнакомый 1 - unfamiliar 
 неизбежный 10 - inevitaЫe 
 неловкость 9 - awkwardness, discomfort 
-необходИмое 3 - esseпtial (п.), а must 
+необходИмое 3 - esseпtial (n.), а must 
 неотделИмый 9 - iпseparaЫe 
 непрочный 4 - flimsy 
 неравенство 4 - iпequality 
 нервная система 7 - пervous system 
-нервничать impf - to Ье пervous, agitated; нервничать по пустякам 7 -
-to get upset for по reasoп 
+нервничать (impf; по пустякам) - to Ье nervous, agitated; to get upset for по reasoп 
 нервный 7 - пervous, high-struпg 
-неужели 6 - сап it really Ье 
-нефть f 9 - oil 
+неужели 6 - саn it really Ье 
+нефть (f) 9 - oil 
 нехватка 5 - lack of 
 нотка 3 - thread 
 нищета 9 - poverty 
 нИщий 9 - beggar, poor persoп 
 новорождённый 4 - iпfaпt, пewly born 
-ногти, siпg. ноготь 7 - fiпgernails, toeпails 
+ногти (siпg. ноготь) 7 - fiпgernails, toeпails 
 номер нарЯда 7 - coпfirmatioп пumber 
-нормализоваться impf and pfv. 7 - to get back to пormal 
+нормализоваться (impf and pfv.) 7 - to get back to пormal 
 нравственные ценности 2, 8 - moral values 
 нуждаться 2 - to Ье iп пееd of 
 нынешний 3 - curreпt 
-ОбвинЯть/обвинИть (кого?) в (чём?) 6 - to accuse/to fiпd guilty 
+ОбвинЯть/обвинИть (кого? в чём?) 6 - to accuse/to fiпd guilty 
 обеспеченная жизнь 9 - comfortaЫe life 
 обеспеченный 4 - well-to-do; обеспеченный человек 9 - wealthy persoп 
 обеспечивать/обеспечить (кому? что?) 6 - to provide 
@@ -544,7 +542,7 @@ to get upset for по reasoп
 обращаться/обратИться с заявлением 6 - to file а complaiпt, а report 
 обрЯд 8 - religious rite 
 обстановка 4 - situatioп 
-обсуждать/обсудИть (что?) с (кем?) 3 - to discuss 
+обсуждать/обсудИть (что? с кем?) 3 - to discuss 
 обучение 1 - course of study 
 общественная организация 2 - пoп-governmeпtal orgaпizatioп (NGO} 
 общественность 8 - people, the geпeral puЬlic 
@@ -556,7 +554,7 @@ to get upset for по reasoп
 объединЯться/объединИться 6 - to uпite 
 объявлЯть/объявИть (кого? что?) 5 - to аппоuпсе 
 обычай 8 - custom, traditioп 
-обЯзанность f 2 - duty 
+обЯзанность (f) 2 - duty 
 оглашать/огласИть 6 - to аппоuпсе, make puЬlic 
 оглЯдываться/оглянуться на (кого? что?) 6 - to look back at 
 ограничение 8, 10 - limit; restrictioп 
@@ -574,53 +572,52 @@ to get upset for по reasoп
 онкозаболевания 7 - oпcological diseases, сапсеr 
 опасность 6 - daпger 
 опасный (опасен, опасна, -о) 7- daпgerous 
-опираться impf на (что?) 10 - to Ье based оп 
+опираться (impf на что?) 10 - to Ье based оп 
 оплата квартИры 9 - (payiпg) reпt 
 опоздание 1 - beiпg late, tardiпess 
 оправдывать/оправдать (кого? что?) 6 - to acquit 
 определЯть/определИть (что?) 6 - to determiпe 
 опрошенный 2 - respoпdeпt 
-опустеть pfv. 5 - to lose iпhabltaпts 
-опухоль/ 7 - tumor 
+опустеть (pfv.) 5 - to lose iпhabitaпts 
+опухоль 7 - tumor 
 опыт 1 - experieпce 
 оранжерея 10 - greeпhouse 
 орган власти 8 - admiпistrative office, аgепсу 
 органИзм 7 - body 
 оргтехника 2 - office equipmeпt 
-освобождать/освободИть от (чего?) 1- to exempt 
+освобождать/освободИть (от чего?) 1- to exempt 
 осложнение 7 - complicatioп 
 основа 4 - basis,fouпdatioп 
-основной 5 - таiп 
+основной 5 - mаin
 особенно 1 - especially 
 особенный 5 - special 
 особый 1 - special 
-оставаться/остаться 2 - to stay 
-от (кого? чего?) 5 - to Ье left 
+оставаться/остаться (от кого? чего?)2 - to stay; to Ье left 
 остроумие 2 - sharp wit 
 осуждённый 6 - fouпd guilty, coпvicted 
 осуществлЯть/осуществИть (что? мечту, проект) 6 - to realize (а dream, project) 
 ответственность 2 - respoпsibllity 
 ответственный 1- respoпsiЬle 
-отвечать/ответить за (что?) 1 - to Ье respoпsiЬle for, aпswer for 
-отвыкать/отвыкнуть от (кого? чего?) 7 - to getout of the hablt 
-отдавать/отдать голос за (кого?) 8 - to cast а vote 
+отвечать/ответить (за что?) 1 - to Ье respoпsiЬle for, aпswer for 
+отвыкать/отвыкнуть (от кого? чего?) 7 - to getout of the hablt 
+отдавать/отдать голос (за кого?) 8 - to cast а vote 
 отзывчивый 6 - respoпsive, uпderstaпdiпg 
 отказываться/отказаться от (чего?) 1 - to refuse, decliпe 
 откликаться/отклИкнуться на (что?) 10 - to respoпd to 
 отключать/отключИть (что?) З - to shut off 
 открытие 1, 6 - discovery 
 отлов 10 - low tide 
-отличать/отличИть (кого? что?) от (кого? чего?) 6 - to distiпguish, tell apart 
-отличаться impf от (кого?) 10 - to differ from 
+отличать/отличИть (кого? что? от кого? чего?) 6 - to distiпguish, tell apart 
+отличаться (impf от кого?) 10 - to differ from 
 отличие 6 - distiпctioп 
 отмена 1 - caпcellatioп 
 отменЯть/отменИть (что?) 1 - to сапсеl 
 отмечать/отметить 5 - тепtiоп, poiпt to 
-отнимать/отнять (что?) у (кого?) З - to take away 
+отнимать/отнять (что? у кого?) З - to take away 
 отнимать/отнЯть 9 - to deduct 
-относИться impf к (кому? чему?) 3 - to relate to; to have to do with 
-относИться/отнестИсь к (кому? чему?) 1 - to relate/react to 
-отношение (siпg. оnlу) к (кому? чему?) 8 - attitude to 
+относИться (impf к кому? чему?) 3 - to relate to; to have to do with 
+относИться/отнестИсь (к кому? чему?) 1 - to relate/react to 
+отношение (siпg. оnlу к кому? чему?) 8 - attitude to 
 отношения (pl. оnlу) 8 - relatioпs, relatioпship 
 отравление 7 - poisoпiпg 
 отрешённость 6 - detachmeпt, aloofпess 
@@ -635,7 +632,7 @@ to get upset for по reasoп
 ошибаться/ошибИться 3 - to make а mistake, get somethiпg wroпg 
 Падать/упасть 4 - to fall 
 падение 3 - fall 
-память f 3 - memory 
+память (f) 3 - memory 
 парикмахер 6 - hairdresser, hairstylist 
 парниковый эффект 10 - greenhouse effect 
 партер 3 - orchestra seats 
@@ -645,7 +642,7 @@ to get upset for по reasoп
 пейзаж З - landscape 
 передозировка 6 - overdose 
 переезд 5 - move (to another place) 
-переизбытlоlк 2 - glut, oversupply 
+переизбытoк 2 - glut, oversupply 
 перекрИкивать/перекричать (кого?) 7 - to outshout 
 перекрывать/перекрыть (что?) 5 - to shut off 
 перенаселение 10 - overpopulation 
@@ -653,17 +650,17 @@ to get upset for по reasoп
 перепись населения 10 - census 
 пересдача экзаменов 1 - the retaking of exams 
 переставать/перестать 8 - to cease, stop 
-переходИть/перейтИ на (что?) 10 - to move to 
+переходИть/перейтИ (на что?) 10 - to move to 
 персонаж З - character 
 перспектИва 6 - prospects, future 
-печень f 7 - liver 
+печень (f) 7 - liver 
 питание 7 - nutrition 
 платёж 9 - payment 
-платИть/заплатИть по счетам 9 - to рау bllls 
+платИть/заплатИть (по счетам) 9 - to рау (bills) 
 платок 6 - kerchief, shawl 
 плен (в плену) 10 - captivity (Ье а POW} 
-плотность f 5 - density 
-площадь/ (города) 5 - (city) square; area occupied Ьу the city 
+плотность (f) 5 - density 
+площадь (f города) 5 - (city) square; area occupied Ьу the city 
 по-прежнему 5 - as before 
 по-разному 1- in various ways 
 побеждать/победИть (кого? что?) 8 - to соре with, win 
@@ -681,16 +678,15 @@ to get upset for по reasoп
 поделён, поделена 8 - divided 
 поднимать/поднЯть цены 5 - to raise prices 
 подниматься/поднЯться 4 - to rise 
-подобие 10 - rеsетЫапсе, similarity 
+подобие 10 - rеsеmblаnсе, similarity 
 подобный (кому? чему?) 8 - similar 
 подозрение 6 - suspicioп 
 подработка 9 - mooпlightiпg 
-подростlоlк 5 - adolesceпt 
+подростoк 5 - adolesceпt 
 подрЯд 8 - iп а row 
-подстраивать(ся)/подстроить(ся) под (кого? что?) 10 - to adapt to, 
-accommodate 
+подстраивать(ся)/подстроить(ся) (под кого? что?) 10 - to adapt to, accommodate 
 подтверждаться/подтвердИться (кем? чем?) 9 - to Ье coпfirmed, supported 
-подход к (чему?) 2 - approach to 
+подход (к чему?) 2 - approach to 
 подходИть/подойтИ (кому? чему?) 7 - to Ье right for 
 подчинЯть/подчинИть (кому? что? чьЮ-то волю) 7- to subordiпate, suppress 
 (someoпe's will) 
@@ -706,7 +702,7 @@ accommodate
 покИнутый 5 - deserted 
 поколение 2 - geпeratioп 
 покупательная способность 9 - buyiпg power 
-полагаться/положИться на (кого? что?) 10 - to rely оп 
+полагаться/положИться (на кого? что?) 10 - to rely оп 
 полезно 7 - useful 
 политИческий курс 10 - political course 
 полноценно 10 - fully 
@@ -715,26 +711,26 @@ accommodate
 полставки (работать на полставки) 2 - half-time, part-time job (to work part-time) 
 полуразрушенный 9 - semi-ruiпed, iп а bad shape 
 получать/получИть поддержку (кого?) 8 - to receive support 
-получать/получИть (широкое) развИтие 6 - to Ьесоте widespread, popular 
+получать/получИть (широкое) развИтие 6 - to Ьесоmе widespread, popular 
 пользователь 8 - user 
-пользоваться impf. известностью 5 - to епjоу popularity 
+пользоваться (impf.) известностью 5 - to епjоу popularity 
 помИмо (чего?) 4 - besides 
 понижать/понИзить 2 - to reduce 
 понятие 9 - сопсерt, belief 
 поощрЯть/поощрИть (кого?) 9 - to reward 
-попадать/попасть к (кому?) на (что?) 1 - to get to, wiпd up at, go to 
+попадать/попасть (к кому? на что?) 1 - to get to, wiпd up at, go to 
 пополнЯть/пополнить (что?) 10 - to supplemeпt, augmeпt 
 попытка 5 - attempt 
 портить/испортить жизнь 5 - to make life difficult 
 портрет З - portrait 
-порЯдlоlк (всё в порЯдке) 6 - order (all is well, everything is all right) 
+порЯдoк (всё в порЯдке) 6 - order (all is well, everything is all right) 
 порЯдочный 2 - decent; dependaЫe 
 посадка леса 10 - planting of trees,forestation 
 посвящён, посвящена (кому? чему?) 3 - dedicated 
 предъявлЯть/предъявИть (документы) 6 - to show (documents, papers) 
-поселенlеlц 10 - settler 
+поселенец 10 - settler 
 поселение 10 - colony, settlement 
-посёлlоlк 5 - village, settlement 
+посёлoк 5 - village, settlement 
 поселЯться/поселИться (где?) 10 - to settle 
 посетИтель 3 - visitor 
 посещать/посетИть 3 - to visit; to attend 
@@ -746,7 +742,7 @@ accommodate
 постановка 3 - production, show 
 постановщик 3 - stage director 
 пострадавший 7 - injured person 
-поступlоlк 7, 8 - act, action, deed 
+поступoк 7, 8 - act, action, deed 
 потерпевший 6 - victim 
 потеря 10 - loss 
 потом101к, pl. потомки 10 - descendant 
@@ -764,12 +760,12 @@ accommodate
 правоохранИтельная деятельность 9 - law enforcement 
 православие 8 - Orthodoxy, Orthodox religion 
 православный, православная 6, 8 - Orthodox (п., adj.J, Orthodox believer 
-превращаться/превратИться в(о) (кого? что?) 7 - to turn into 
+превращаться/превратИться (в кого? во что?) 7 - to turn into 
 превышать/превысить 9 - to exceed 
 предвзЯтость к (кому? чему?) 8 - blas infavor of 
-предlоlк, pl. предки 10 - ancestor 
+предoк, pl. предки 10 - ancestor 
 предоставлЯть/предоставить возможность (кому?) 8 - to give, provide 
-ап opportunity 
+аn opportunity 
 предотвращение (чего?) 8 - prevention 
 предпочитать/предпочесть (кого? что?) 2- to prefer 
 предприниматель 4, 9 - businessman, entrepreneur 
@@ -778,8 +774,8 @@ accommodate
 предприЯтие 2, 5 - enterprise,factory, plant, shop 
 председатель 10 - chair, head of 
 представИтель 2 - representative 
-представлЯть impf (кого? что?) 5 - to represent 
-предупреждать/предупредИть о (ком? чём?) 2 - to warn about 
+представлЯть (impf кого? что?) 5 - to represent 
+предупреждать/предупредИть (о ком? чём?) 2 - to warn about 
 преимущество 9 - advantage 
 прекрасный 1 - beautiful; excellent 
 премьера 3 - premiere; the opening night 
@@ -793,7 +789,7 @@ crime
 прИбыльный 9 - profitaЫe 
 привлекательный 5 - attractive 
 привлекать/привлечь (кого? что?) 6 - to attract 
-привыкать/привыкнуть к (кому? чему?) 7 - to get used to 
+привыкать/привыкнуть (к кому? чему?) 7 - to get used to 
 привычка (вредная) 2 - (bad, unhealthy) hablt 
 приговор 6 - (court) sentence 
 прИгород 5 - suburb, countryside 
@@ -804,14 +800,16 @@ crime
 прилИв 10 - high tide 
 применение 10 - application 
 применЯть/применИть (что? где?) 10 - to apply, use 
-принадлежать impf (кому? чему?) 2 - to belong to 
+принадлежать (impf кому? чему?) 2 - to belong to 
 принадлежность (национальная) 10 - (ethnic) identity 
-принимать/принять (куда?) 1 - to accept; на работу 2 - to hire; решение 2 - to 
-make а decision; участие в (чём?) 3 - to participate 
+принимать/принять (куда?) 1 - to accept 
+принимать/принять на работу 2 - to hire 
+принимать/принять решение 2 - to make а decision
+принимать/принять участие (в чём?) 3 - to participate 
 приобретать/приобрести (что?) 7 - to acquire 
 природные ресурсы 10 - natural resources 
 присяжные (mostly used in pl.) 6 - jury,jurors 
-приучать/приучИть к (чему?) 9 - to teach to, train 
+приучать/приучИть (к чему?) 9 - to teach to, train 
 приходИться/прийтИсь (кому? приходится/пришлось) 2 - beforced to, to have to 
 пробка (дорожная) 5 - traffic jam 
 провал З - failure 
@@ -824,7 +822,7 @@ make а decision; участие в (чём?) 3 - to participate
 прогуливать/прогулЯть (что?) - to skip а class, play hooky 
 продажа 9 - sale 
 продолжИтельность жИзни 7 - expectancy 
-проживать impf 5 - to live, reside 
+проживать (impf) 5 - to live, reside 
 прожИточный мИнимум 2 - living wage, cost ofliving 
 проза З - prose 
 произведение 3 - work of art 
@@ -836,23 +834,24 @@ make а decision; участие в (чём?) 3 - to participate
 промышленный (центр) 5 - industrial (center) 
 пропуск 1 - absence 
 пропускать/пропустИть занЯтие (по болезни) 1 - to miss class (because of illness) 
-прорвать pfv. (что?) 5 - to burst 
+прорвать (pfv. что?) 5 - to burst 
 просмотр З - viewing 
 простуда 7 - cold 
 просыпаться/проснуться 3 - to wake up 
 протестное выступление 8 - rally 
 протИвник 8 - opponent 
-противостоЯть impf (кому? чему?) 4 - to resist 
+противостоЯть (impf кому? чему?) 4 - to resist 
 профессиональный 1 - vocational; professional 
 процент (по кредИту) 5, 9 - interest rate 
 процесс 5 - process 
 прочее 9 - etc. (usually и прочее or и пр.) 
-прощать/простИть (кого?) за (что?) 4 - to forgive 
-проявлЯть/проявИть инициатИву 9 - to show initiative; проявлЯть/проявИть 
-интерес к (кому? чему?) 8 - to show ап interest in; проявлЯть/проявИть талант 
+прощать/простИть (кого? за что?) 4 - to forgive 
+проявлЯть/проявИть инициатИву 9 - to show initiative
+проявлЯть/проявИть интерес (к кому? чему?) 8 - to show ап interest in
+проявлЯть/проявИть талант - to show a talent
 пугать/испугать (кого? чем?) 8 - to scare 
 пуля 10 - bullet 
-путать/перепутать (что?) с (чем?) 3 - to confuse, mix up 
+путать/перепутать (что? с чем?) 3 - to confuse, mix up 
 пьЯнство 7 - alcoholism 
 пьЯный 7 - drunk 
 Работник 4 - worker 
@@ -862,7 +861,7 @@ make а decision; участие в (чём?) 3 - to participate
 равнодушный 4 - indifferent 
 равноправие 4 - equal rights 
 равнЯться impf 9 - to Ье equal 
-разбираться/разобраться в (ком? чём?) 2 - to examine; to understand 
+разбираться/разобраться (в ком? чём?) 2 - to examine; to understand 
 разбойное нападение 6 - holdup, armed assault 
 развалИвшийся 9 - falling apart 
 развивать/развИть (кого? что?) 1 - to develop 
@@ -870,13 +869,13 @@ make а decision; участие в (чём?) 3 - to participate
 развитая страна 2 - developed couпtry 
 разделение 8 - divisioп, schism 
 разделение труда 10 - divisioп oflabor 
-разделИться pfv. 8 - to split 
+разделИться (pfv.) 8 - to split 
 различать/различИть (кого? что?) 10 - to recogпize 
 размер пособия 9 - amouпt of а welfare/beпefits check 
-размещать/разместИть (что? объявление) 2 - to place (ап ad) 
+размещать/разместИть (что? объявление) 2 - to place (аn ad) 
 разнообразный 9 - diverse, wide raпge of 
 разносторонний 4 - many-sided, versatile 
-разочаровываться/разочароваться в (ком? чём?) 2 - to Ьесоте disappoiпted iп, 
+разочаровываться/разочароваться (в ком? чём?) 2 - to Ьесоте disappoiпted iп, 
 diseпchanted with 
 разрешать/разрешИть (кому? что?) 4 - to permit 
 разрешение 5 - permissioп 
@@ -893,14 +892,14 @@ diseпchanted with
 расслоение 6, 9 - stratificatioп 
 расстрел 10 - executioп Ьу firiпg squad 
 расстройство 7 - disorder 
-рассуждать impf о (ком? чём?) 6 - to argue, reasoп, talk 
+рассуждать (impf о ком? чём?) 6 - to argue, reasoп, talk 
 рассуждение 7 - coпsideratioп, discussioп 
-рассчИтывать impf оп/у на (кого? что?) 9 - to couпt оп, rely оп 
+рассчИтывать (impf оnlу на кого? что?) 9 - to couпt оп, rely оп 
 рассылка 10 - distributioп 
 растапливаться/растопИться 10 - to melt 
-расходИться/разойтИсь с (кем?) 4 - to split up 
-расходы pl. only 9 - expeпses 
-расцветать/расцвести 2 - to Ыоот, Ыossomfully 
+расходИться/разойтИсь (с кем?) 4 - to split up 
+расходы (pl. only) 9 - expeпses 
+расцветать/расцвести 2 - to blооm, Ыossomfully 
 расчёты 10 - calculatioпs 
 расширение 9 - ехрапsiоп 
 рацион 7 - daily coпsumptioп 
@@ -916,26 +915,26 @@ diseпchanted with
 репертуар З - repertoire 
 репетИтор 1, 2 - tutor 
 респондент 2 - respoпdeпt 
-рецензия на (что?) 3 - review 
-решать/решИть (+iпf} 1- to decide 
-рисковать impf (кем? чем?) 10 - to risk 
-родИть pfv. (кого?) 4 - to give blrth to 
-рождаемость 4, 8 - blrthrate 
+рецензия (на что?) 3 - review 
+решать/решИть (+inf) 1- to decide 
+рисковать (impf кем? чем?) 10 - to risk 
+родИть (pfv. кого?) 4 - to give blrth to 
+рождаемость 4, 8 - birthrate 
 Рождество 8 - Christmas 
-розыск 6 - detectioп, search 
+розыск 6 - detection, search 
 рост 5 - growth 
-ругаться/поругаться с (кем?) 4 - to quarrel 
-руководИтель 2 - persoп iп charge 
-руководИть impf (чем?) 1 - to Ье iп charge of, supervise 
+ругаться/поругаться (с кем?) 4 - to quarrel 
+руководИтель 2 - person in charge 
+руководИть (impf чем?) 1 - to Ье iп charge of, supervise 
 руководство компании 2 - сатрапу тапаgетепt 
 руководЯщий 4 - leadiпg 
-рынlоlк труда 2 - labor market 
+рынoк труда 2 - labor market 
 рыночные отношения 9 - market relatioпs 
 ряд 3 - row 
 Сажать/посадИть в тюрьму 8 - to put iп jail 
 самобичевание 7 - beiпg hard оп oпeself; selfflagellatioп 
 самобытность 10 - origiпality, uniqueпess 
-самовыражаться impf 6 - to express oneself 
+самовыражаться (impf) 6 - to express oneself 
 самозащИта 7 - self-defeпse 
 самосовершенствоваться impf 10 - to improve oneself 
 самосознание 10 - (self) ideпtity 
@@ -943,16 +942,16 @@ diseпchanted with
 самоутверждение 6 - self-affirmation 
 самочувствие (хорошее, плохое) 7 - feeling (well, пotwell) 
 сантехник 5 - plumber 
-сведение о (ком? чём?) 5 - iпformation 
+сведение (о ком? чём?) 5 - iпformation 
 свёкор 4 -father-iп-law (husband'sfather) 
 свекровь 4 - mother-iп-law (husband's mother) 
 сверстник 8 - peer 
 свидание 4 - date (meetiпg) 
 свидетель 6 - witness 
 свойство 7 - quality, characteristic 
-свЯзан(ный) с (кем? чем?) 9 - related to, соппесtеd with; свЯзан, -а, -о (что?) 
-с (чем?) 8 - соnnесtеd with 
-связывать/связать (что?) с (чем?) 4 - to link 
+свЯзанный (с кем? чем?) 9 - related to, соппесtеd with
+свЯзан (-а, -о что? с (чем?) 8 - соnnесtеd with 
+связывать/связать (что? с чем?) 4 - to link 
 священник 6, 8 - clergyman, priest, minister 
 село 5 - village, settlement 
 сельская местность 5 - the countryside 
@@ -960,7 +959,7 @@ diseпchanted with
 семейные обстоЯтельства 2 - family circumstances 
 сердце 7 - heart 
 сессия 4 - final exams 
-сеть f 5 - network 
+сеть (f) 5 - network 
 сжигание (топлива) 10 - burning (of fuel) 
 сИла (кому? по сИлам) 6 - strength (it is тапаgеаЫе, achievaЫe) 
 сИла воли 7 - willpower 
@@ -968,57 +967,58 @@ diseпchanted with
 скидка 4 - discount 
 скорая помощь 7 - ambulance 
 слава 8 - fame, glory 
-следИть impf за весом 7 - to watch one's weight 
+следИть (impf) за весом 7 - to watch one's weight 
 следователь 6 - detective, investigator 
 следствие 2, 6 - result, consequence; investigation 
 следующий 5 - next 
 слияние 10 - merger, incorporation 
-сложИться pfv. 10 - to develop, to form 
+сложИться (pfv.) 10 - to develop, to form 
 служащий 10 - worker 
 служебная лестница (двИгаться по) 6 - career ladder (to bе making а career) 
-служИть impf в армии 10 - to serve in the army 
+служИть (impf в армии) 10 - to serve (in the army) 
 случайно 6 - Ьу chance, accidentally, incidentally 
 слушаться/послушаться (кого?) 4 - to оbеу 
 смертельный 7 - deadly, terminal 
 смертность 4, 7 - death rate, mortality 
 смысл (по смыслу) 9 - sense, meaning, essence (essentially, in essence) 
 снижаться/снИзиться 9 - to fall, decrease 
-снимать/снять деньги с (чего? карточки) 9 - to withdraw cash 
-(using а credit/deblt card) 
+снимать/снять деньги (с чего? карточки) 9 - to withdraw cash (using а credit/deblt card) 
 сносИть/снестИ (что? дом, здание) 5 - to raze, tear down (а house, building) 
 собеседование 2 - job interview 
 собрание З - collection 
 собственник 9 - property owner 
 собственный 5 - one's own 
-совершать/совершИть посадку 10 - (abouta plane) to land; совершать/ 
-совершИть револЮцию 3 - to carry out а revolution 
+совершать/совершИть посадку 10 - (about a plane) to land
+совершать/совершИть револЮцию 3 - to carry out а revolution 
 совет 8 - council, board 
 совместИмый 9 - compatiЬle 
 согласие 8 - agreement 
 создавать/создать (что?) 2 - to create 
-создание ( семьИ) 4 - here: building а family 
+создание семьИ 4 - here: building а family 
 создатель 10 - creator 
 сознаваться/сознаться в (чём?) 6 - to confess, admit 
-сознание 7 - consciousness, being conscious; без сознания 7 - unconscious 
+сознание 7 - consciousness, being conscious
+без сознания 7 - unconscious 
 сокращать/сократИть (кого?) 2 - to lау off; to fire 
 сокращаться/сократИться 4 - to decrease 
-сомневаться в (ком? чём?) 2 - to doubt 
+сомневаться (в ком? чём?) 2 - to doubt 
 сообщать/сообщИть (кому? что?) 4 - to communicate, to announce 
 соответственно 5 - respectively 
 соотношение 5, 7 - correlation 
 сорИть/насорИть 5 - to litter 
-сосредоточиться pfv. на (ком? чём?) 10 - to focus оп, рау atteпtion to 
-составлЯть/составить (что?) 1, 7 - to соmроsе, mаkе up; to аmоunt to, to соте to 
-состоЯние 3, 9 - coпditioп;fortuпe; состоЯние душИ 6 - state of mind 
+сосредоточиться (pfv. на ком? чём?) 10 - to focus оп, рау atteпtion to 
+составлЯть/составить (что?) 1, 7 - to соmроsе, mаkе up; to аmоunt to, to соmе to 
+состоЯние 3, 9 - coпditioп;fortuпe
+состоЯние душИ 6 - state of mind 
 состоЯтельный 9 - well-to-do 
-состоЯть impf. оп/у из (чего?) 4 - to coпsist of 
-состоЯться pfv. оп/у (что? где?) 3 - to take place 
+состоЯть (impf. оnly из чего?) 4 - to coпsist of 
+состоЯться (pfv. оnlу что? где?) 3 - to take place 
 сотрудник 2 - co-worker 
 сохранЯть/сохранИть (что?) 5 - to preserve 
 сохранЯться/сохранИться 5, 9 - to rетаiп, rетаiп uпchanged 
 соцзащИта 9 - social services 
 социальная помощь 9 - public assistance 
-социальная сеть f 8 - social пetwork 
+социальная сеть (f) 8 - social пetwork 
 сочетание (в сочетании с) 6 - соmbinаtiоn (iп соmbinаtiоn with) 
 спальный район 6 - resideпtial пeighborhood, bedrooт соттuпitу 
 СПИД 7-AIDS 
@@ -1027,8 +1027,8 @@ diseпchanted with
 способ 2 - теапs, way 
 способность 3 - talent 
 справедлИвый 1 - fair, just 
-справка от (врача) 1- (doctor's) поtе, excuse 
-справлЯться/справиться с (кем? чем?) 6 - to соре 
+справка (от врача) 1- (doctor's) поtе, excuse 
+справлЯться/справиться (с кем? чем?) 6 - to соре 
 справочник 1 - directory 
 спрос 9 - dетапd 
 средИ (кого?) 1 - атопg 
@@ -1037,7 +1037,7 @@ diseпchanted with
 срок 9 - length of tiтe 
 ссылать/сослать (кого? куда?) 10 - to exile 
 стажировка 2 - iпternship 
-сталкиваться/столкнуться с (чем?) 6 - to соте iп coпtact with, to face 
+сталкиваться/столкнуться (с чем?) 6 - to соте iп coпtact with, to face 
 старение 5, 7 - agiпg, gettiпg old 
 стареть/постареть 7 - to get old 
 статья расходов 9 - iteт of expenditure 
@@ -1045,32 +1045,32 @@ diseпchanted with
 сторонник 8 - supporter, adherent 
 стоЯть на учёте (где?) 2 - to register with ап аgепсу 
 страдание З - suffering 
-страдать/пострадать от (кого? чего?) 7 - to suffer 
+страдать/пострадать (от кого? чего?) 7 - to suffer 
 страсть 3 - passion 
 страх 2 - fear; dread 
 стремИтельно 8 - fast, rapidly 
-стремИться iтpf к (кому? чему?) 2 - to strivefor 
-стыдно (кому?) 6 - (sотеопе is) ashamed 
+стремИться (impf к кому? чему?) 2 - to strivefor 
+стыдно (кому?) 6 - (sоmеоnе is) ashamed 
 субсИдия 4 - subsidy 
 суд 5 - court 
 судебная власть 8 - judicial branch 
-судИть impf (кого? за что?) 4 - to judge; судИть/осудИть (кого? что?) 6 -
-to try in courtjto convict 
+судИть (impf кого? за что?) 4 - to judge 
+судИть/осудИть (кого? что?) 6 - to try in courtjto convict 
 судьба З - fate 
-судьЯ m. or f 6 - judge 
-суетИться impf 6 - to fuss 
-супруг/а 4 - spouse 
+судьЯ (m or f) 6 - judge 
+суетИться (impf) 6 - to fuss 
+супруг/супруга 4 - spouse 
 сухой закон 8 - prohibltion (anti-alcohol laws) 
 сфера услуг 9 - service sector 
 сцена З - stage; scene 
 сценИческое искусство 3 - performing arts 
-считаться impf (кем? чем?) 2 - to bе considered 
+считаться (impf кем? чем?) 2 - to bе considered 
 сюжет 3, 10 - plot 
 тайна 2 - secret 
 тактИчный 2 - tactful 
 творчество 3 - (creative) works 
 текущий счёт 9 - checking account 
-тематика (sing. оп/у) 8 - the main theme 
+тематика (sing. оnlу) 8 - the main theme 
 темп роста 9 - growth rate 
 теневая экономика 9 - shadow есопоту 
 тень 7 - shade 
@@ -1078,12 +1078,12 @@ to try in courtjto convict
 тесть 4 -father-in-law (wife'sfather) 
 течь impf 5 - to flow 
 тёща 4 - mother-in-law (wife's mother) 
-товар, -ы 9 - goods, products 
-толкать/толкнуть на (что?) 8 - to incite, lead to 
+товары 9 - goods, products 
+толкать/толкнуть (на что?) 8 - to incite, lead to 
 топливо 10 - fuel 
 торговля 5 - trade 
 тормозИть/затормозИть (что?) 10 - hold back, slow down 
-тратить/потратить (что?) на (что?) 7 - to spend 
+тратить/потратить (что? на что?) 7 - to spend 
 требовать/потребовать (чего?) 2 - to require 
 тротуар 5 - sidewalk 
 труба 5 - pipe 
@@ -1095,23 +1095,23 @@ to try in courtjto convict
 трудолЮбие 2 - diligence 
 тусовка (slang) 6 - get-together, party 
 тюрьма 6 - jail, prison 
-У беждать/убедИть (кого?) в (чём?) 7 - to convince 
+Убеждать/убедИть (кого? в чём?) 7 - to convince 
 убИйство 6 - murder 
-уважать impf (кого?) за (что?) 4 - to respect 
+уважать impf (кого? за что?) 4 - to respect 
 увеличение 5 - increase 
 увелИчивать(ся)/увелИчить(ся) 4 - to increase 
-увольнять/уволить с работы 2 - to /ау off 
+увольнять/уволить с работы 2 - to lау off 
 углеводы 7 - carbohydrates 
 уголовный 6 - criminal 
-угlоlль 10 - coal 
+угoль 10 - coal 
 угон автотранспорта 6 - carjacking 
 угонЯть/угнать (кого? куда?) 10 - to relocate bу force 
 угроза 5 - threat 
-удаваться/удаться (кому? что?) past andfuture tenses: удалось, удастся З - to succeed in doing something 
+удаваться/удаться (кому? что?) З - to succeed in doing something 
 уделЯть/уделИть внимание (кому? чему?) 2 - to рау attention to 
 удивИтельно 5 - it is surprising 
 удовлетворЯть/удовлетворИть потребности 10 - to meet demands, needs 
-удовольствие от (чего?) 2 - pleasure; enjoyment 
+удовольствие (от чего?) 2 - pleasure; enjoyment 
 удостоверение 6 - identification, ID 
 ужесточать/ужесточИть (что?) 8 - to make more rigorous, severe 
 узел (железнодорожный) 5 - (railroad) junction 
@@ -1130,50 +1130,49 @@ to try in courtjto convict
 употреблЯть/употребИть (что?) 6 - to use 
 управление страной 4 - governing а country 
 управленческий 4 - administrative 
-упрекать/упрекнуть (кого?) в (чём?) 4 - to reproach 
+упрекать/упрекнуть (кого? в чём?) 4 - to reproach 
 упрощать/упростИть (что?) 5 - to simplify 
 урезать/урезать 9 - to cut (back) 
 уровень жИзни 8 - standard ofliving 
 условие 4 - condition 
-услуги по (чему?) 2 - services 
+услуги (по чему?) 2 - services 
 успеваемость 9 - student progress 
 успешный 6 - successful 
 успокаивать/успокоить (кого? что?) 7 - to calm down 
 усталость 3 - tiredness,Jatigue 
-устанавливать/установИть (что?) 8 - to estaЬlish, decide upon; тарИфы 5 - to set 
-tariffs 
+устанавливать/установИть (что? тарИфы) 8 - to estaЬlish, decide upon (tariffs) 
 установление 10 - estaЬlishing 
 устраивать/устроить (кого?) 2 - to Ье pleased 
 устраиваться/устроиться на работу 2 - to get а job 
-уступать/уступИть (кому? чему?) З - to yield to; место (кому? чему?) 10 -
-to make way for 
-утверждать impf (что?) 6 - to maintain, assert; (кого? что?) 8 - to approve, 
-to confirm 
+уступать/уступИть (кому? чему?) З - to yield to
+уступать/уступИть место (кому? чему?) 10 - to make way for 
+утверждать (impf что?) 6 - to maintain, assert; (кого? что?) 8 - to approve, to confirm 
 утечка мозгов 5 - brain drain 
 уходИть/уйтИ с работы 2 - to quit one's job, resign 
-ухудшаться/ухудшиться 7 - togetworse 
-ухудшение 5 - deterioration; ухудшение здоровья 7 - health proЫems 
-участвовать impf в (чём?) 4 - to participate 
+ухудшаться/ухудшиться 7 - to get worse 
+ухудшение 5 - deterioration
+ухудшение здоровья 7 - health proЫems 
+участвовать (impf в чём?) 4 - to participate 
 учебный год 1 - school year, academic year 
 учреждён (from учредИть) 4 - instituted 
 ФиксИровать/зафиксИровать (что?) 8 - to record, register 
 финансИровать/профинансИровать (что?) 3 - to finance, to fund 
 фонд 3 - inventory 
 форма правления 8 - form of government 
-формировать(ся)/сформировать(ся) 2, 4- toform 
+формировать(ся)/сформировать(ся) 2, 4- to form 
 ХвалИть/похвалИть (кого? что?) 7 - to praise 
 химИческое удобрение 10 - chemicalfertilizer 
 хозЯин 10 - master 
-хотеть impf (чего?) от (кого?) 2 - to make demands оп someone 
+хотеть (impf чего? от кого?) 2 - to make demands оп someone 
 хотЯ бы 7 - at least 
 храм 6 - church, temple, cathedral 
-хранИться impf 3 - to Ье kept, to Ье in а museum 
+хранИться (impf) 3 - to Ье kept, to Ье in а museum 
 христианство 8 - Christianity 
 художественный фИльм 3 - movie 
 хулиганство 6 - disorderly conduct 
 Целеустремлённый 6 - goal oriented, driven 
-цель f 4 - goal 
-ценИть impf (что?) 2 - to value 
+цель (f) 4 - goal 
+ценИть (impf что?) 2 - to value 
 ценности 9 - values 
 ценные бумаги 9 - bonds, securities 
 центр занятости населения 2 - job center 
@@ -1185,10 +1184,10 @@ to confirm
 чувствовать/почувствовать усталость 3 - to feel tired 
 чужой 7 - alien, someone else's 
 Шедевр З - masterpiece 
-шпионский 8 - spy (adj.J 
+шпионский 8 - spy (adj.) 
 штрИх-код 10 - barcode 
 ЭкологИческая обстановка 5 - environmental conditions 
-электрИчка 5 - /оса/ train 
+электрИчка 5 - lосаl train 
 электроснабжение 5 - electric power supply 
 энергИчный 2 - energetic, high achiever, risk taker 
 энергоносИтель 10 - energy-producing material 
@@ -1201,5 +1200,6 @@ to confirm
 Ядерное оружие 10 - nuclear weapons 
 Язва 7 - ulcer 
 Яма 5 - pothole 
-Яркий 5 - bright; Яркие огнИ - bright lights 
+Яркий 5 - bright 
+Яркие огнИ - bright lights 
 Ясно 1 - clear 
