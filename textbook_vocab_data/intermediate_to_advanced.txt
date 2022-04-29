@@ -125,7 +125,7 @@
 времяпрепровождение 9 - pastime 
 врозь 4 - separately 
 всё равно 1 - all the same 
-всенародный 1- пatioпal 
+всенародный 1 - пatioпal 
 вуз 1 - ап iпstitutioп of higher learniпg 
 выбор (sg. оnlу) 1 - choice 
 выборы (pl. оnlу) 8 - electioп, electioпs 
@@ -171,7 +171,7 @@
 голодать  (impf) 7 - to starve 
 голос (pl. голоса) 8 - vote 
 голосовать/проголосовать (за кого? что?/против кого? чего?) 8 - to vote for/agaiпst 
-гордИться (impf кем? чем?) 1- to Ье proud of 
+гордИться (impf кем? чем?) 1 - to Ье proud of 
 городская дума 5 - city governmeпt 
 горЯчая лИния 4 - hotliпe 
 господствовать (impf) 10 - to reigп 
@@ -201,7 +201,7 @@
 действие 3 - theater act 
 действовать (impf) 5 - to act 
 делИть/разделИть - to divide 
-делИться/поделИться (чем? с кем?) 1- to share 
+делИться/поделИться (чем? с кем?) 1 - to share 
 депрессия 7 - depressioп 
 деревянный 5 - wooden
 держать (impf кого? что?) 2 - to keep; hold 
@@ -229,7 +229,7 @@
 доставка 3 - delivery 
 достатoк 9 - prosperity, afflueпce 
 достаточно 1 - eпough, sufficieпt 
-достигать/достИгнуть (чего?) 1- to achieve, reach 
+достигать/достИгнуть (чего?) 1 - to achieve, reach 
 достижение 1, 6 - achievemeпt; accomplishmeпt 
 достоинство 2 - advaпtage; merit; streпgth 
 достопримечательность 5 - poiпt ofiпterest 
@@ -276,7 +276,7 @@
 закалЯться/закалИться 7 - to build up опе's resistaпce 
 закат 3 - suпset 
 заключать/заключИть брак 4 - to get married (official) 
-закон 4- law 
+закон 4 - law 
 законодательная власть 8 - legislature 
 законодательство 8 - legislatioп; laws 
 заложник 8 - hostage 
@@ -440,7 +440,7 @@
 монастырь (m.) 8 - monastery, convent 
 монах/монахиня 8 - monk;nun 
 мотов (преступления) 6 - motive (for а crime) 
-мудрость (f) 1- wisdom 
+мудрость (f) 1 - wisdom 
 мусор 5 - garbage 
 мусульманин (рl. мусульмане) 8 - Muslim (п.) 
 мысль 3 - thought 
@@ -571,7 +571,7 @@
 окупаемость 9 - return оп iпvestmeпt 
 онкозаболевания 7 - oпcological diseases, сапсеr 
 опасность 6 - daпger 
-опасный (опасен, опасна, -о) 7- daпgerous 
+опасный (опасен, опасна, -о) 7 - daпgerous 
 опираться (impf на что?) 10 - to Ье based оп 
 оплата квартИры 9 - (payiпg) reпt 
 опоздание 1 - beiпg late, tardiпess 
@@ -597,7 +597,7 @@
 осуждённый 6 - fouпd guilty, coпvicted 
 осуществлЯть/осуществИть (что? мечту, проект) 6 - to realize (а dream, project) 
 ответственность 2 - respoпsibllity 
-ответственный 1- respoпsiЬle 
+ответственный 1 - respoпsiЬle 
 отвечать/ответить (за что?) 1 - to Ье respoпsiЬle for, aпswer for 
 отвыкать/отвыкнуть (от кого? чего?) 7 - to getout of the hablt 
 отдавать/отдать голос (за кого?) 8 - to cast а vote 
@@ -662,7 +662,7 @@
 плотность (f) 5 - density 
 площадь (f города) 5 - (city) square; area occupied Ьу the city 
 по-прежнему 5 - as before 
-по-разному 1- in various ways 
+по-разному 1 - in various ways 
 побеждать/победИть (кого? что?) 8 - to соре with, win 
 поведение 7 - behavior 
 повод 2 - reason 
@@ -688,7 +688,7 @@
 подтверждаться/подтвердИться (кем? чем?) 9 - to Ье coпfirmed, supported 
 подход (к чему?) 2 - approach to 
 подходИть/подойтИ (кому? чему?) 7 - to Ье right for 
-подчинЯть/подчинИть (кому? что? чьЮ-то волю) 7- to subordiпate, suppress (someoпe's will) 
+подчинЯть/подчинИть (кому? что? чьЮто волю) 7 - to subordiпate, suppress (someoпe's will) 
 подъезд дома 5 - епtrапсе to ап apartmeпt buildiпg 
 пожар 7 - fire 
 пожарный 7 - firemaп 
@@ -911,7 +911,7 @@
 репетИтор 1, 2 - tutor 
 респондент 2 - respoпdeпt 
 рецензия (на что?) 3 - review 
-решать/решИть (+inf) 1- to decide 
+решать/решИть (+inf) 1 - to decide 
 рисковать (impf кем? чем?) 10 - to risk 
 родИть (pfv. кого?) 4 - to give blrth to 
 рождаемость 4, 8 - birthrate 
@@ -1016,13 +1016,13 @@
 социальная сеть (f) 8 - social пetwork 
 сочетание (в сочетании с) 6 - соmbinаtiоn (iп соmbinаtiоn with) 
 спальный район 6 - resideпtial пeighborhood, bedrooт соттuпitу 
-СПИД 7-AIDS 
+СПИД 7 - AIDS 
 спиртные напитки 6 - alcoholic beverages 
 спокойный 1 - calm, quiet 
 способ 2 - теапs, way 
 способность 3 - talent 
 справедлИвый 1 - fair, just 
-справка (от врача) 1- (doctor's) поtе, excuse 
+справка (от врача) 1 - (doctor's) поtе, excuse 
 справлЯться/справиться (с кем? чем?) 6 - to соре 
 справочник 1 - directory 
 спрос 9 - dетапd 
@@ -1154,7 +1154,7 @@
 финансИровать/профинансИровать (что?) 3 - to finance, to fund 
 фонд 3 - inventory 
 форма правления 8 - form of government 
-формировать(ся)/сформировать(ся) 2, 4- to form 
+формировать(ся)/сформировать(ся) 2, 4 - to form 
 ХвалИть/похвалИть (кого? что?) 7 - to praise 
 химИческое удобрение 10 - chemicalfertilizer 
 хозЯин 10 - master 
