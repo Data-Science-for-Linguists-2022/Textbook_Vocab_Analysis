@@ -30,7 +30,8 @@
 бижутерия 13 – jewelry
 блин (pl. -ы) 6 – pancake
 блокнот 7 – notebook
-блондин/блондинка 2 – blond (man)/blonde (woman)
+блондин 2 – blond (man) 
+блондинка 2 – blonde (woman)
 блузка 15 – blouse
 блюдо 5 – dish
 боевик 17 – action movie
@@ -100,7 +101,7 @@
 возвраща́ться/верну́ться (куда́? отку́да?) 9 – to come back, return
 во́здух 15 – air
 возмо́жен (возмо́жна, возмо́жно, возмо́жны) 15 – here: there is chance of
-(не) возмо́жно 8 – (im)possible
+(не)возмо́жно 8 – (im)possible
 волейбо́л 10 – volleyball
 волнова́ться (impf.) 14 – to worry
 воспи́тывать/воспита́ть (кого́?) 3 – to bring up, raise
@@ -154,8 +155,7 @@
 горя́чее (на горя́чее n.) 6 – entrée, main course (as an entrée, main course)
 горя́чий (-ая, -ее, -ие) 6 – hot
 гостеприи́мный (-ая, -ое, -ые) 12 – hospitable
-гото́вить/пригото́вить пра́здничный стол (обед, ужин) 6 – to cook a holiday meal
-(literally: holiday table)
+гото́вить/пригото́вить пра́здничный стол (обед, ужин) 6 – to cook a holiday meal (literally: holiday table)
 гото́вить/пригото́вить (что? из чего́?) 5 – to cook
 гото́виться/подгото́виться (к чему́?) 7 – to prepare for, to study for (an exam)
 грибы́ (pl.) 5 – mushrooms
@@ -173,7 +173,7 @@
 двою́родный брат 3 – male cousin,
 двою́родная сестра́ 3 – female cousin
 двухме́стный но́мер 14 – double room
-(моя́) де́вушка 4 – girlfriend
+(моя́)де́вушка 4 – girlfriend
 дегусти́ровать (impf. что?) – to taste
 дегуста́ция 14 – tasting
 де́йствие (фи́льма) 17 – the action (in a film)
@@ -244,8 +244,7 @@
 занима́ться (чем? бе́гом, те́ннисом) 10 – to practice, to engage in, to play
 заня́тие 7 – class
 запека́ть/запе́чь (в духо́вке что? мя́со, о́вощи) 5 – to roast in an oven
-запи́сывать/записа́ть (кого́? куда́?) 10 – to register someone, sign someone up for
-something
+запи́сывать/записа́ть (кого́? куда́?) 10 – to register someone, sign someone up for something
 запи́сываться/записа́ться (на курс по чему́?) 7 – to register for, sign up for
 запра́вка для маши́н 13 – gas station
 заправля́ть/запра́вить маши́ну 13 – to refuel the car
@@ -452,10 +451,8 @@ something
 оде́жда 15 – сlothing
 одея́ло 11 – blanket
 одна́ко 13 – but, however
-однокла́ссник (однокла́ссница) 2 – classmate (in the same grade as you in
-elementary, middle or high school)
-одноку́рсник (одноку́рсница) 2 – classmate (studies the same major and is in your
-year in college)
+однокла́ссник (однокла́ссница) 2 – classmate (in the same grade as you in elementary, middle or high school)
+одноку́рсник (одноку́рсница) 2 – classmate (studies the same major and is in your year in college)
 одноме́стный но́мер 14 – single room
 оконча́ние (университе́та, шко́лы) 7, 9 – graduation; ending
 око́нчить (pfv. что? шко́лу, ко́лледж, университе́т) 1 – to graduate from
@@ -472,8 +469,7 @@ year in college)
 о́тзыв 12 – review
 отка́зываться/отказа́ться (от кого́? от чего́?) 5 – to give something up
 открыва́ться/откры́ться 13 – to open
-отмеча́ть/отме́тить (что? пра́здник, день рожде́ния, сва́дьбу) 6 – to observe,
-celebrate
+отмеча́ть/отме́тить (что? пра́здник, день рожде́ния, сва́дьбу) 6 – to observe,celebrate
 отноше́ния (pl.) 4 – relationship
 о́тпуск 14 – vacation, time off (from work)
 о́тчим 3 – stepfather
@@ -490,7 +486,7 @@ celebrate
 па́мятник архитекту́ры 12 – architectural landmark
 па́мятник (кому́?) 12 – monument
 па́ра 7 – 90-minute lecture
-(мой) па́рень 4 – boyfriend
+(мой)па́рень 4 – boyfriend
 парикма́херская 4 – hair salon
 паркова́ть/запаркова́ть (маши́ну где?) 13 – to park the car
 парко́вка, стоя́нка 12 – parking, parking lot
@@ -498,7 +494,7 @@ celebrate
 па́смурный (-ая, ое, -ые) 13 – overcast adj.
 па́смурно 15 – overcast adv.
 пе́на для бритья́ 11 – shaving cream
-первоку́рсник 7 – first-year student, freshman
+первоку́рсник 7 – first year student, freshman
 пе́ред (+ inst. кем? чем?) 11, 14 – in front of; before
 передава́ть/переда́ть (что? че́рез поро́г) 4 – to give something (over a threshold)
 переда́ча (о чём?) 6, 17 – TV show
@@ -526,7 +522,7 @@ celebrate
 плита́ 11 – stove
 пло́щадь го́рода 12 – city’s land area
 плыть ~ пла́вать 12 – to swim, sail, float
-по твоему́/ва́шему мне́нию 15 – in your opinion
+по твоему́(ва́шему) мне́нию 15 – in your opinion
 по-мо́ему (по-тво́ему) 12 – in my (your) opinion
 побежда́ть/победи́ть (кого́? что?) 10 – to win
 по́вар 5 – cook, chef
@@ -690,7 +686,7 @@ celebrate
 свобо́да 8 – freedom
 сдава́ть/сдать (что? экза́мен, квартиру) 7, 11 – to take/pass an exam; to rent out (apartment)
 сде́лать (pfv.) причёску (маникю́ р, педикю́ р) 4 – to get one’s hair (nails, toes) done
-(о) себе́ (prep.) 1 – (about) oneself (myself, yourself, himself, herself, ourselves, themselves)
+(о)себе́ (prep.) 1 – (about) oneself (myself, yourself, himself, herself, ourselves, themselves)
 седо́й (-а́я, -ы́ е) – gray haired
 селёдка 6 – herring
 семе́стр 7 – semester
@@ -794,8 +790,7 @@ celebrate
 сы́ро 15 – damp adv.
 сюже́т 17 – plot
 сюсю́кающий язы́к 4 – baby talk
-Так во́т 8 – and so and so, (a conjunction used to sum up information or express a logical
-conclusion)
+Так во́т 8 – and so and so, (a conjunction used to sum up information or express a logical conclusion)
 та́к как 1 – because
 та́кже 4, 7, 12 – also
 тако́й (-ая, -ое, -ие) 4 – such
@@ -828,7 +823,7 @@ conclusion)
 турни́р 10 – tournament
 ту́фли (pl.) 15 – shoes
 тушь (f.) 14 – mascara
-Убира́ть/убра́ть (со стола́; ко́мнату, кварти́ру) 6,11 – to clear the table; to clean, tidy up
+Убира́ть/убра́ть (со стола́; ко́мнату, кварти́ру) 6, 11 – to clear the table; to clean, tidy up
 уважа́ть (impf. кого́? что?) 8 – to respect
 уве́рен (-а, -ы в ком? в чём?) 8 – (to be) sure (of), confident in
 увлека́ться (impf. кем? чем?) 10 – to be really into something, to be passionate about something
@@ -899,7 +894,7 @@ conclusion)
 читательский билет 7 – library card
 чихать/чихнуть 16 – to sneeze
 член семьи 3 – family member
-ЧП (чрезвычайное происшествие) 13 – emergency
+(ЧП)чрезвычайное происшествие 13 – emergency
 что́-то 7 – something
 чтобы 13 – in order to
 чувствовать себя (impf.) 16 – to feel
