@@ -70,7 +70,7 @@
 вечный 6 - eternal 
 взаимодействие между (кем? чем?) 2 - interaction 
 взаимопонимание 4 - mutual understanding 
-взг лЯды 6 - views 
+взглЯды 6 - views 
 взрослеть/повзрослеть 5 - to grow up 
 взрослый (n.) 6 - adult 
 взрыв 8 - explosion 
@@ -79,7 +79,7 @@
 вид 7 - kind, type 
 вИрус 7 - virus 
 вкладывать/вложить (что? вo что?) 9 - to invest 
-включать/включИть (что? вo что?) З - to include 
+включать/включИть (что? вo что?) 3 - to include 
 вкус 3 - taste 
 владелец (совладелец) 9 - owner (co-owner) 
 власть 5, 8 - power, authorities, administration 
@@ -121,7 +121,7 @@
 вполне 2 - fully, completely 
 вражда (национальная) 6 - hate crime, пatioпal/racial aпimosity 
 вражда 8 - aпtagoпism, aпimosity, coпflict 
-враждебный З - hostile 
+враждебный 3 - hostile 
 времяпрепровождение 9 - pastime 
 врозь 4 - separately 
 всё равно 1 - all the same 
@@ -164,7 +164,7 @@
 гИбнуть/погИбнуть 7 - to die (iп ап accideпtjwar) 
 глава (семьи, государства) 4, 8 - head of (family, state) 
 гладить/погладить (кого? что?) 4, 9 - to iroп; to pet 
-глИна (siпg. оnlу) З - pottery 
+глИна (siпg. оnlу) 3 - pottery 
 глобальное потепление 10 - global warmiпg 
 глубоко 8 - deeply 
 глушь (f) 5 - backwoods 
@@ -180,7 +180,7 @@
 государство 8 - state, couпtry 
 грабёж 6 - robbery 
 гравЮра 3 - priпt (as ап art form) 
-гражданин (pl. граждане; gen. pl. граждан) З - citizen 
+гражданин (pl. граждане; gen. pl. граждан) 3 - citizen 
 гражданская война 10 - civil war 
 гражданское общество 8 - civil society 
 гражданство 10 - citizenship 
@@ -198,7 +198,7 @@
 движение 6 - mоvеmеnt 
 двойственное отношение (к кому? чему?) 9 - аn ambivalent attitude 
 деградИровать (impf) 6 - to degrade 
-действие З - theater act 
+действие 3 - theater act 
 действовать (impf) 5 - to act 
 делИть/разделИть - to divide 
 делИться/поделИться (чем? с кем?) 1- to share 
@@ -226,7 +226,7 @@
 дорожать/подорожать 9 - to iпcrease iп cost, cost тоrе 
 дорожное хозЯйство 9 - road coпstructioп апd таiпtепапсе 
 дословно 9 - literally, word for word 
-доставка З - delivery 
+доставка 3 - delivery 
 достатoк 9 - prosperity, afflueпce 
 достаточно 1 - eпough, sufficieпt 
 достигать/достИгнуть (чего?) 1- to achieve, reach 
@@ -238,7 +238,7 @@
 досуг 3 - leisure time 
 доход 9 - inсоmе 
 драка 6 - scuffle,fistfight 
-древний З - апсiепt 
+древний 3 - апсiепt 
 духовный 6 - spiritual 
 душа (по душе) 2 - soul (to опе's likiпg) 
 Единственный 3 - sole, оnlу 
@@ -293,9 +293,9 @@
 заражать(ся)/заразИть(ся) (кого? чем? от кого?) 7 - to iпfect; to catch а disease 
 заранее 4 - iп advaпce 
 зарплата 2 - salary 
-зарубежный З -foreigп 
+зарубежный 3 -foreigп 
 заслуживать (чего?)/заслужИть (что?) 1 - to deserve 
-заставлЯть/заставить (кого? делать что?) З - to force (to do somethiпg) 
+заставлЯть/заставить (кого? делать что?) 3 - to force (to do somethiпg) 
 засыпать/заснуть 3 - to fall asleep 
 затапливать/затопИть (что?) 5, 10 - to flood 
 зато 5 - but, however, оп the other haпd 
@@ -327,7 +327,7 @@
 изменение 8 - change 
 изменЯть/изменИть (кого? что?) 2 - to change, alter; 
 изменЯть/изменИть (кому? с кем?) 4 - to Ье unfaithful 
-изображать/изобразИть (кого? что?) З - to portray 
+изображать/изобразИть (кого? что?) 3 - to portray 
 изобразИтельное искусство 3 - visual art 
 иначе 6 - otherwise 
 инвестИция 5 - investment 
@@ -368,7 +368,7 @@
 качество 7 - quality 
 квалифицИрованный 2 - qualified 
 квартплата 5 - rent 
-керамика З - ceramics 
+керамика 3 - ceramics 
 класть/положИть деньги (на карточку, счёт) 9 - to deposit mоnеу (into ап account) 
 клетка 7 - cell (нервные клетки 7 - nerve cells) 
 кожа 7 -skin 
@@ -423,7 +423,7 @@
 МалоподвИжность 7 - sedentary lifestyle 
 материально 4 - materially 
 материальные ценности 6 - material values, wealth 
-мгновенное сообщение З - text message, SMS 
+мгновенное сообщение 3 - text message, SMS 
 между тем 2 - meanwhile 
 менЯть/поменЯть работу 2 - to change jobs 
 мера 7 - measure, step 
@@ -438,7 +438,7 @@
 молодёжь (f) 1 - young people 
 молчать/промолчать 7 - to be/keep silent 
 монастырь (m.) 8 - monastery, convent 
-монах/монахиня 8 - monkjnun 
+монах/монахиня 8 - monk;nun 
 мотов (преступления) 6 - motive (for а crime) 
 мудрость (f) 1- wisdom 
 мусор 5 - garbage 
@@ -476,8 +476,8 @@
 наследственность 7 - heredity 
 насморк 7 - head cold 
 настойчивый 7 - focused, persistent 
-настолько З - so much 
-натюрморт З - still life 
+настолько 3 - so much 
+натюрморт 3 - still life 
 научная разработка 10 - scientific development, project 
 начальник 2 - boss 
 начальный капитал 9 - initial capital 
@@ -546,7 +546,7 @@
 обучение 1 - course of study 
 общественная организация 2 - пoп-governmeпtal orgaпizatioп (NGO} 
 общественность 8 - people, the geпeral puЬlic 
-общественный З - puЬlic ( adj.) 
+общественный 3 - puЬlic ( adj.) 
 общество 2 - society 
 общИтельность 2 - gregariousпess, sociabllity 
 объедаться/объесться 7 - to overeat 
@@ -585,7 +585,7 @@
 орган власти 8 - admiпistrative office, аgепсу 
 органИзм 7 - body 
 оргтехника 2 - office equipmeпt 
-освобождать/освободИть (от чего?) 1- to exempt 
+освобождать/освободИть (от чего?) 1 - to exempt 
 осложнение 7 - complicatioп 
 основа 4 - basis,fouпdatioп 
 основной 5 - mаin
@@ -604,7 +604,7 @@
 отзывчивый 6 - respoпsive, uпderstaпdiпg 
 отказываться/отказаться от (чего?) 1 - to refuse, decliпe 
 откликаться/отклИкнуться на (что?) 10 - to respoпd to 
-отключать/отключИть (что?) З - to shut off 
+отключать/отключИть (что?) 3 - to shut off 
 открытие 1, 6 - discovery 
 отлов 10 - low tide 
 отличать/отличИть (кого? что? от кого? чего?) 6 - to distiпguish, tell apart 
@@ -613,7 +613,7 @@
 отмена 1 - caпcellatioп 
 отменЯть/отменИть (что?) 1 - to сапсеl 
 отмечать/отметить 5 - тепtiоп, poiпt to 
-отнимать/отнять (что? у кого?) З - to take away 
+отнимать/отнять (что? у кого?) 3 - to take away 
 отнимать/отнЯть 9 - to deduct 
 относИться (impf к кому? чему?) 3 - to relate to; to have to do with 
 относИться/отнестИсь (к кому? чему?) 1 - to relate/react to 
@@ -625,7 +625,7 @@
 отсутствие (чего?) 5, 8 - аЬsепсе, lack of 
 отчёт 2 - office report 
 оценивать/оценИть (кого? что?) 9 - to value, appraise 
-оцифровка З - digitiziпg 
+оцифровка 3 - digitiziпg 
 очевидный 8 - obvious 
 очередной раз 5 - опсе agaiп 
 очИстка воды 10 - water purificatioп 
@@ -639,7 +639,7 @@
 партия 3 - role in ап opera 
 Пасха 8 - Easter, Passover 
 пачка (сигарет) 6 - pack (of cigarettes) 
-пейзаж З - landscape 
+пейзаж 3 - landscape 
 передозировка 6 - overdose 
 переезд 5 - move (to another place) 
 переизбытoк 2 - glut, oversupply 
@@ -651,7 +651,7 @@
 пересдача экзаменов 1 - the retaking of exams 
 переставать/перестать 8 - to cease, stop 
 переходИть/перейтИ (на что?) 10 - to move to 
-персонаж З - character 
+персонаж 3 - character 
 перспектИва 6 - prospects, future 
 печень (f) 7 - liver 
 питание 7 - nutrition 
@@ -688,8 +688,7 @@
 подтверждаться/подтвердИться (кем? чем?) 9 - to Ье coпfirmed, supported 
 подход (к чему?) 2 - approach to 
 подходИть/подойтИ (кому? чему?) 7 - to Ье right for 
-подчинЯть/подчинИть (кому? что? чьЮ-то волю) 7- to subordiпate, suppress 
-(someoпe's will) 
+подчинЯть/подчинИть (кому? что? чьЮ-то волю) 7- to subordiпate, suppress (someoпe's will) 
 подъезд дома 5 - епtrапсе to ап apartmeпt buildiпg 
 пожар 7 - fire 
 пожарный 7 - firemaп 
@@ -722,7 +721,7 @@
 пополнЯть/пополнить (что?) 10 - to supplemeпt, augmeпt 
 попытка 5 - attempt 
 портить/испортить жизнь 5 - to make life difficult 
-портрет З - portrait 
+портрет 3 - portrait 
 порЯдoк (всё в порЯдке) 6 - order (all is well, everything is all right) 
 порЯдочный 2 - decent; dependaЫe 
 посадка леса 10 - planting of trees,forestation 
@@ -745,7 +744,7 @@
 поступoк 7, 8 - act, action, deed 
 потерпевший 6 - victim 
 потеря 10 - loss 
-потом101к, pl. потомки 10 - descendant 
+потомок (pl. потомки) 10 - descendant 
 потребИтель 8 - consumer 
 потребИтельский 10 - consumer (adj.J 
 потребление 7, 8 - consumption 
@@ -759,13 +758,12 @@
 право 4 - right 
 правоохранИтельная деятельность 9 - law enforcement 
 православие 8 - Orthodoxy, Orthodox religion 
-православный, православная 6, 8 - Orthodox (п., adj.J, Orthodox believer 
+православный (православная) 6, 8 - Orthodox (п., adj.J, Orthodox believer 
 превращаться/превратИться (в кого? во что?) 7 - to turn into 
 превышать/превысить 9 - to exceed 
-предвзЯтость к (кому? чему?) 8 - blas infavor of 
-предoк, pl. предки 10 - ancestor 
-предоставлЯть/предоставить возможность (кому?) 8 - to give, provide 
-аn opportunity 
+предвзЯтость (к кому? чему?) 8 - blas infavor of 
+предoк (pl. предки) 10 - ancestor 
+предоставлЯть/предоставить возможность (кому?) 8 - to give, provide аn opportunity 
 предотвращение (чего?) 8 - prevention 
 предпочитать/предпочесть (кого? что?) 2- to prefer 
 предприниматель 4, 9 - businessman, entrepreneur 
@@ -782,8 +780,7 @@
 преодолевать препЯтствия 10 - to overcome barriers, obstacles 
 престИжно 1 - prestigious 
 престИжный 5 - prestigious 
-преступление 6 - crime; совершать/ совершИть преступление - to commit а 
-crime 
+преступление 6 - crime; совершать/ совершИть преступление - to commit а crime 
 преступник 6 - criminal 
 преступность 6 - crime, criminality 
 прИбыльный 9 - profitaЫe 
@@ -812,9 +809,8 @@ crime
 приучать/приучИть (к чему?) 9 - to teach to, train 
 приходИться/прийтИсь (кому? приходится/пришлось) 2 - beforced to, to have to 
 пробка (дорожная) 5 - traffic jam 
-провал З - failure 
-проверЯть/проверить документы (проверка документов) 6 - to check papers 
-(checking papers) 
+провал 3 - failure 
+проверЯть/проверить документы (проверка документов) 6 - to check papers (checking papers) 
 провинциальный 5 - provincial 
 проводИть(ся)/провестИ (что?) 1, 8 - conduct, hold 
 прогнозИровать/спрогнозИровать (что?) 10 - to predict 
@@ -824,7 +820,7 @@ crime
 продолжИтельность жИзни 7 - expectancy 
 проживать (impf) 5 - to live, reside 
 прожИточный мИнимум 2 - living wage, cost ofliving 
-проза З - prose 
+проза 3 - prose 
 произведение 3 - work of art 
 производИть/произвестИ (что?) 9 - to produce, manufacture 
 производство 6 - production, manufacturing 
@@ -833,9 +829,9 @@ crime
 промышленность (лёгкая/тяжёлая) 5 - (light/heavy) industry 
 промышленный (центр) 5 - industrial (center) 
 пропуск 1 - absence 
-пропускать/пропустИть занЯтие (по болезни) 1 - to miss class (because of illness) 
+пропускать/пропустИть (занЯтие по болезни) 1 - to miss (class because of illness) 
 прорвать (pfv. что?) 5 - to burst 
-просмотр З - viewing 
+просмотр 3 - viewing 
 простуда 7 - cold 
 просыпаться/проснуться 3 - to wake up 
 протестное выступление 8 - rally 
@@ -875,8 +871,7 @@ crime
 размещать/разместИть (что? объявление) 2 - to place (аn ad) 
 разнообразный 9 - diverse, wide raпge of 
 разносторонний 4 - many-sided, versatile 
-разочаровываться/разочароваться (в ком? чём?) 2 - to Ьесоте disappoiпted iп, 
-diseпchanted with 
+разочаровываться/разочароваться (в ком? чём?) 2 - to Ьесоmе disappoiпted in, diseпchanted with 
 разрешать/разрешИть (кому? что?) 4 - to permit 
 разрешение 5 - permissioп 
 разрешение на работу 10 - work permit 
@@ -906,13 +901,13 @@ diseпchanted with
 реализовывать/реализовать (что? идею) 6 - to make (ап idea) real 
 регулИровать/отрегулИровать цены 5 - to regulate prices 
 регулЯрный 5 - regular 
-редакция З - editorial office 
+редакция 3 - editorial office 
 резкий 5 - harsh 
 рейс 5 - airliпe flight 
 рейтинг 5 - ratiпg 
 рекомендовать/порекомендовать (кому? что?) 3 - to recommeпd 
 религиозный 5 - religious 
-репертуар З - repertoire 
+репертуар 3 - repertoire 
 репетИтор 1, 2 - tutor 
 респондент 2 - respoпdeпt 
 рецензия (на что?) 3 - review 
@@ -926,7 +921,7 @@ diseпchanted with
 ругаться/поругаться (с кем?) 4 - to quarrel 
 руководИтель 2 - person in charge 
 руководИть (impf чем?) 1 - to Ье iп charge of, supervise 
-руководство компании 2 - сатрапу тапаgетепt 
+руководство компании 2 - сomраnу mаnаgеmеnt 
 руководЯщий 4 - leadiпg 
 рынoк труда 2 - labor market 
 рыночные отношения 9 - market relatioпs 
@@ -985,7 +980,7 @@ diseпchanted with
 снимать/снять деньги (с чего? карточки) 9 - to withdraw cash (using а credit/deblt card) 
 сносИть/снестИ (что? дом, здание) 5 - to raze, tear down (а house, building) 
 собеседование 2 - job interview 
-собрание З - collection 
+собрание 3 - collection 
 собственник 9 - property owner 
 собственный 5 - one's own 
 совершать/совершИть посадку 10 - (about a plane) to land
@@ -1032,7 +1027,7 @@ diseпchanted with
 справочник 1 - directory 
 спрос 9 - dетапd 
 средИ (кого?) 1 - атопg 
-среднее З - тidway, between 
+среднее 3 - тidway, between 
 средства 9 - теапs 
 срок 9 - length of tiтe 
 ссылать/сослать (кого? куда?) 10 - to exile 
@@ -1044,7 +1039,7 @@ diseпchanted with
 стИмул 9 - iпcentive 
 сторонник 8 - supporter, adherent 
 стоЯть на учёте (где?) 2 - to register with ап аgепсу 
-страдание З - suffering 
+страдание 3 - suffering 
 страдать/пострадать (от кого? чего?) 7 - to suffer 
 страсть 3 - passion 
 страх 2 - fear; dread 
@@ -1056,13 +1051,13 @@ diseпchanted with
 судебная власть 8 - judicial branch 
 судИть (impf кого? за что?) 4 - to judge 
 судИть/осудИть (кого? что?) 6 - to try in courtjto convict 
-судьба З - fate 
+судьба 3 - fate 
 судьЯ (m or f) 6 - judge 
 суетИться (impf) 6 - to fuss 
 супруг/супруга 4 - spouse 
 сухой закон 8 - prohibltion (anti-alcohol laws) 
 сфера услуг 9 - service sector 
-сцена З - stage; scene 
+сцена 3 - stage; scene 
 сценИческое искусство 3 - performing arts 
 считаться (impf кем? чем?) 2 - to bе considered 
 сюжет 3, 10 - plot 
@@ -1107,7 +1102,7 @@ diseпchanted with
 угон автотранспорта 6 - carjacking 
 угонЯть/угнать (кого? куда?) 10 - to relocate bу force 
 угроза 5 - threat 
-удаваться/удаться (кому? что?) З - to succeed in doing something 
+удаваться/удаться (кому? что?) 3 - to succeed in doing something 
 уделЯть/уделИть внимание (кому? чему?) 2 - to рау attention to 
 удивИтельно 5 - it is surprising 
 удовлетворЯть/удовлетворИть потребности 10 - to meet demands, needs 
@@ -1144,7 +1139,7 @@ diseпchanted with
 установление 10 - estaЬlishing 
 устраивать/устроить (кого?) 2 - to Ье pleased 
 устраиваться/устроиться на работу 2 - to get а job 
-уступать/уступИть (кому? чему?) З - to yield to
+уступать/уступИть (кому? чему?) 3 - to yield to
 уступать/уступИть место (кому? чему?) 10 - to make way for 
 утверждать (impf что?) 6 - to maintain, assert; (кого? что?) 8 - to approve, to confirm 
 утечка мозгов 5 - brain drain 
@@ -1183,7 +1178,7 @@ diseпchanted with
 чувство стыда 9 - feeling of shame 
 чувствовать/почувствовать усталость 3 - to feel tired 
 чужой 7 - alien, someone else's 
-Шедевр З - masterpiece 
+Шедевр 3 - masterpiece 
 шпионский 8 - spy (adj.) 
 штрИх-код 10 - barcode 
 ЭкологИческая обстановка 5 - environmental conditions 
@@ -1192,7 +1187,7 @@ diseпchanted with
 энергИчный 2 - energetic, high achiever, risk taker 
 энергоносИтель 10 - energy-producing material 
 экспонат - exhiblt 
-эстрадный певец З - concert singer ( adj.) 
+эстрадный певец 3 - concert singer ( adj.) 
 эффектИвно 2 - effectively 
 ЮвелИрные изделия 9 - jewelry 
 юный 5 - young, in one's teens 
