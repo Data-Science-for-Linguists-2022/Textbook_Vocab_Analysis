@@ -460,7 +460,7 @@
 опа́здывать/опозда́ть на что? 7 – to be late for
 опа́сно 14 – dangerous
 о́птика 13 – eyewear/glasses and sunglasses
-оре́хи pl. 14 – nuts
+оре́хи (pl.) 14 – nuts
 осно́ван (-а, -о, -ы) 12 – founded, established
 осо́бенно 3 – especially
 оте́ц 3 – father
@@ -504,7 +504,7 @@
 переку́с 5 – snack
 переме́на 7 – here: break between classes
 переме́шивать/перемеша́ть (что?) 5 – to mix
-перестава́ ть/переста́ть (+ inf.) 16 – to stop
+перестава́ть/переста́ть (+ inf.) 16 – to stop
 перехо́д 13 – crosswalk
 переходи́ть/перейти́ (дорогу) 4 – to cross a road
 переходи́ть/перейти́ (на англи́йский) 4 – to switch to English
@@ -555,7 +555,7 @@
 понима́ть/поня́ть (кого́? что?) 4 – to understand
 пора́ (кому́? + inf.) 9 – it’s time to
 поря́док и чистота́ 11 – tidiness and cleanliness
-посеща́ть/посети́ть кого́ ? что? 10 – to attend, visit
+посеща́ть/посети́ть (кого́ ? что?) 10 – to attend, visit
 по́сле (+ gen.) 4 – after
 по́сле того́ как (conj.) 8, 9 – after
 поста́вить (pfv. что?) 6, 11 – to put (vertically)
@@ -812,7 +812,7 @@
 тогда́ 14 – then
 ток-шо́у 17 – talk show
 торго́вый центр (ТЦ) 6, 13 – shopping mall
-тормози́ ть/затормози́ ть 13 – to brake
+тормози́ть/затормози́ть 13 – to brake
 травмато́лог 16 – trauma surgeon
 трамва́й 12 – tram
 тра́тить/потра́тить (что? вре́мя) 10 – to spend (time)
