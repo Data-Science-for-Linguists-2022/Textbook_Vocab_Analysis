@@ -8,7 +8,7 @@ Data source [Plain text versions of Kudyma textbooks](https://github.com/Data-Sc
 
 ## Directory
 ---
-* [`final_report.md`](final_report.md) is my final report wrap-up
+* **[`final_report.md`](final_report.md)** is my final report wrap-up
 
 * [`Processed_Data.ipynb`](Processed_Data.ipynb) is my code that I use to explore the data. The same is available [here](https://nbviewer.org/github/Data-Science-for-Linguists-2022/Textbook_Vocab_Analysis/blob/main/Processed_Data.ipynb) through Jupyter's nbviewer.
 
