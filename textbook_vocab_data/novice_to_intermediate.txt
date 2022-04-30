@@ -108,7 +108,7 @@
 впечатле́ние 12 – impression
 вре́дный (-ая, -ое, -ые) – unhealthy adj
 вре́дно 5 – unhealthy adv
-вре́дный, 8 – mean, malicious
+вре́дный 8 – mean, malicious
 всё – everything
 все 1 – everyone
 всё вре́мя 4 – all the time
@@ -266,14 +266,14 @@
 зна́чить (impf. Это зна́чит, что . . .) 16 – to mean (This means . . .)
 золото́й (-ая, -ое, -ые) 15 – gold
 зо́нтик 15 – umbrella
-Игра́ть (impf. в(о) что? футбо́ л, те́ннис) 10 – to play a sport (soccer, tennis)
+Игра́ть (impf. во что? футбо́л, те́ннис) 10 – to play a sport (soccer, tennis)
 Игра́ть (на чём? скри́пке, гита́ре) 10 – to play an instrument (violin, guitar)
 игра́ть/сыгра́ть (гла́вную) роль – to play a role/ the lead
 идти́ ~ ходи́ть 12 – to go, come (by foot)
 идти́ (impf. что? кому́?) 15 – to look nice on someone, to suit someone
 идти́/ходи́ть в го́сти 6 – to visit
 и́з-за (+ gen. кого́ ? чего́ ?) 11 – because of, due to (usually has a negative connotation)
-и́з-за того́ , что 11 – because of
+и́з-за (того́ , что) 11 – because of
 изве́стен (изве́стна, изве́стны кем? чем?) 10 – well-known, famous for
 измени́ться (pfv.) 4 – to change
 изменя́ть/измени́ть (кому́? с кем?) 4 – to cheat on somebody with someone
@@ -334,7 +334,7 @@
 кре́сло 11 – armchair
 крова́ть (f.) 11 – bed
 кро́ме того́ 2, 4, 7, 12 – besides, furthermore
-кроссо́вки pl. 14, 15 – sneakers
+кроссо́вки (pl.) 14, 15 – sneakers
 кру́жка 11 – mug
 круи́зный ла́йнер 14 – a cruise ship
 крупне́йший (-ая, -ее, -ие) 8 – largest, biggest
@@ -403,7 +403,7 @@
 наве́рное 16 – probably
 над (+ inst. кем? чем?) 11 – over
 надева́ть/наде́ть (что?) 15 – to put on (yourself), wear
-наде́яться (impf.) на то, что 14 – to hope for; 
+наде́яться (impf. на то, что) 14 – to hope for; 
 наде́яться (на кого́? на что? на по́мощь) – rely on, to count on
 называ́ться (impf.) 1 – to be named, called
 найти́ (pfv. кого́? что?) 2 – to find
@@ -489,7 +489,7 @@
 (мой)па́рень 4 – boyfriend
 парикма́херская 4 – hair salon
 паркова́ть/запаркова́ть (маши́ну где?) 13 – to park the car
-парко́вка, стоя́нка 12 – parking, parking lot
+парко́вка 12 – parking, parking lot
 парфюме́рия 13 – perfumes
 па́смурный (-ая, ое, -ые) 13 – overcast adj.
 па́смурно 15 – overcast adv.
@@ -674,7 +674,7 @@
 са́мый (са́мая, са́мое, са́мые + adj.) 14 – (the) most + adj
 санда́лии (pl., санда́ли colloq.) 15 – sandals
 сапоги́ (pl.) 15 – high boots
-са́хар, sg. only 5 – sugar
+са́хар (sg. only) 5 – sugar
 сбить (pfv. кого́? что?) 13 – to hit, run into
 сва́дьба 4 – wedding, wedding reception
 све́жий (-ая, -ее, -ие) 12 – fresh
@@ -769,7 +769,7 @@
 стира́ть/постира́ть (что?) 11 – to do laundry
 сто́имость (f.) 10 – cost
 столкну́ться (pfv. с чем?) 13 – to collide
-стоя́нка, парко́вка 12 – parking, parking lot
+стоя́нка 12 – parking, parking lot
 стоя́ть (impf.) 6, 9, 11 – to stand, be standing
 страхо́вка 14 – insurance
 стра́шно 10 – scary adv.
