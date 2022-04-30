@@ -57,7 +57,7 @@
 вежливый 7 - polite 
 венчаться/повенчаться 8 - to get married in а religious ceremony 
 верный (друг) 5 - faithful, real (friend) 
-веровать (impf в(о) кого? что?) 10 - to believe (in God) 
+веровать (impf в кого? во что?) 10 - to believe (in God) 
 вероЯтно 2 - рrоЬаblу 
 версия (следствия) 6 - (investigative) version 
 верующий 8 - believer 
@@ -96,7 +96,7 @@
 водопровод 5 - plumblпg 
 водоснабжение 10 - water supply 
 воевать/завоевать (кого? что?) 6 - to fight for /to coпquer 
-военнопленный 10 - prisoпer of war {POW} 
+военнопленный 10 - prisoпer of war (POW) 
 возглавлЯть/возглавить (что?) 8 - to head, Ье iп charge 
 воздействие (на кого? что?) 8 - iпflueпce, impact оп 
 воздух 5 - air 
@@ -160,7 +160,7 @@
 гастрИт 7 - gastritis 
 гендерный прИзнак 4 - gender 
 герой, героИня (кнИги, фИльма) - protagoпist (of а book, movie) 
-гИбельf 10 - death, ruiп 
+гИбель (f) 10 - death, ruiп 
 гИбнуть/погИбнуть 7 - to die (iп ап accideпtjwar) 
 глава (семьи, государства) 4, 8 - head of (family, state) 
 гладить/погладить (кого? что?) 4, 9 - to iroп; to pet 
@@ -246,7 +246,7 @@
 естественнонаучный 2 - пatural scieпces (adj.) 
 естественный 7 - пatural 
 Жалеть/пожалеть (кого?) 4 - to pity,feel sorry for sотеопе 
-жаловаться/пожаловаться (кому? на кого? что?} 2 - to complaiп 
+жаловаться/пожаловаться (кому? на кого? что?) 2 - to complaiп 
 желудoк 7 - stomach 
 жениться (impf апd pfv. на ком?) - (for а man) to marry 
 жениться (imрf)/пожениться (nо complement) - (for two persoпs) to get married 
@@ -455,7 +455,7 @@
 палочные (деньги) 9 - cash 
 налог 9 - tax 
 налог с продаж 9 - sales tax 
-намерен (-а он намерен, она намерена) 10 - to intend (he intends, she intends) 
+намерен (намерена) 10 - to intend (he intends, she intends) 
 наоборот 2 - the opposite 
 напоминать/напомнить (кому? о чём?) 7 - to remind 
 направление 1, 8 - direction 
@@ -544,7 +544,7 @@
 обстановка 4 - situatioп 
 обсуждать/обсудИть (что? с кем?) 3 - to discuss 
 обучение 1 - course of study 
-общественная организация 2 - пoп-governmeпtal orgaпizatioп (NGO} 
+общественная организация 2 - пoп-governmeпtal orgaпizatioп (NGO) 
 общественность 8 - people, the geпeral puЬlic 
 общественный 3 - puЬlic ( adj.) 
 общество 2 - society 
@@ -571,7 +571,7 @@
 окупаемость 9 - return оп iпvestmeпt 
 онкозаболевания 7 - oпcological diseases, сапсеr 
 опасность 6 - daпger 
-опасный (опасен, опасна, -о) 7 - daпgerous 
+опасный (опасен, опасна, oпасно) 7 - daпgerous 
 опираться (impf на что?) 10 - to Ье based оп 
 оплата квартИры 9 - (payiпg) reпt 
 опоздание 1 - beiпg late, tardiпess 
@@ -621,7 +621,7 @@
 отношения (pl. оnlу) 8 - relatioпs, relatioпship 
 отравление 7 - poisoпiпg 
 отрешённость 6 - detachmeпt, aloofпess 
-отсидеть pfv. в тюрьме 6 - to serve time iп prisoп 
+отсидеть (pfv.) в тюрьме 6 - to serve time iп prisoп 
 отсутствие (чего?) 5, 8 - аЬsепсе, lack of 
 отчёт 2 - office report 
 оценивать/оценИть (кого? что?) 9 - to value, appraise 
@@ -658,7 +658,7 @@
 платёж 9 - payment 
 платИть/заплатИть (по счетам) 9 - to рау (bills) 
 платок 6 - kerchief, shawl 
-плен (в плену) 10 - captivity (Ье а POW} 
+плен (в плену) 10 - captivity (Ье а POW) 
 плотность (f) 5 - density 
 площадь (f города) 5 - (city) square; area occupied Ьу the city 
 по-прежнему 5 - as before 
@@ -751,7 +751,7 @@
 потребность 2 - demand 
 похороны 9 - funeral 
 почасовой 2 - hourly, per hour 
-почва (на почве) 6, 10 - ground (оп the grounds}; soil 
+почва (на почве) 6, 10 - ground (оп the grounds); soil 
 поЭзия 3 - poetry 
 появлЯться/появИться 4 - to appear 
 правИтельство 2, 8 - government 
@@ -991,7 +991,7 @@
 создавать/создать (что?) 2 - to create 
 создание семьИ 4 - here: building а family 
 создатель 10 - creator 
-сознаваться/сознаться в (чём?) 6 - to confess, admit 
+сознаваться/сознаться (в чём?) 6 - to confess, admit 
 сознание 7 - consciousness, being conscious
 без сознания 7 - unconscious 
 сокращать/сократИть (кого?) 2 - to lау off; to fire 
