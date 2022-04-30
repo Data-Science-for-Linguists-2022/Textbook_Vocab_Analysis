@@ -20,7 +20,7 @@ Data source [Plain text versions of Kudyma textbooks](https://github.com/Data-Sc
 
 * [`Project_Plan.md`](Project_Plan.md) was my initial project plan.
 
-* [`Progress_Reports.md`](Rrogress_Reports.md) contains progress logs throughout this semester.
+* [`Progress_Reports.md`](Progress_Reports.md) contains progress logs throughout this semester.
 
 ## Visitors log
 ---
